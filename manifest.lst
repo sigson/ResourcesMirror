@@ -1,7 +1,7 @@
 #v2
 #engine	3.6.0
 #root	Resources
-#total	1919023472
+#total	1926364454
 #chunks	572
 C	Battle-Landscape_new-4thLibrary	Resources/Battle/Landscape_new/4thLibrary	263295	382b194118f96d8c18333f40b5414097	
 C	Battle-Landscape_new-BridgeParts	Resources/Battle/Landscape_new/BridgeParts	2485124	070161ea3d2cfd9de0f10fcdaf0452bf	
@@ -505,29 +505,29 @@ C	GameResources-garage-hull	Resources/GameResources/garage/hull	1139219	5a44c877
 C	GameResources-garage-opportunityticket	Resources/GameResources/garage/opportunityticket	7577	434c73a5811a0d51718d07dd76e4ce2b	
 C	GameResources-garage-skin-drone	Resources/GameResources/garage/skin/drone	3148054	a2e80cd0ded6aa78792031450d635928	
 C	GameResources-garage-skin-tank-_files	Resources/GameResources/garage/skin/tank	1232	8278e7d639b09d1a62f3931ddb9d032a	
-C	GameResources-garage-skin-tank-ares	Resources/GameResources/garage/skin/tank/ares	5082826	4a78da7ca7dda8f1c9855e4920875fe2	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-dictator-20	Resources/GameResources/garage/skin/tank/dictator/20	16080551	5dbf5e3545768c7dc7125a4ac9e2fcad	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-dictator-default	Resources/GameResources/garage/skin/tank/dictator/default	8068702	ad26e03efef379137a398bffdffd705c	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-dictator-old	Resources/GameResources/garage/skin/tank/dictator/old	7801357	190a75a70197619f06ac4a4b1fbc16fe	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-dictator-xt	Resources/GameResources/garage/skin/tank/dictator/xt	5066013	e49cfcfbf597512d68023cbece4771df	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hornet-default	Resources/GameResources/garage/skin/tank/hornet/default	7518130	fbe0bfcdabcf7e7f360ac33615ddadd3	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hornet-hd	Resources/GameResources/garage/skin/tank/hornet/hd	20387959	6f75c3e75c4f3ea8a47ce25cd5a3f405	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hornet-old	Resources/GameResources/garage/skin/tank/hornet/old	6159133	edc629d28cd40c7e0ce7f04441296f02	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hornet-xt	Resources/GameResources/garage/skin/tank/hornet/xt	7614200	e05f485c54e46f91a65cc107f2b7846a	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hunter-default	Resources/GameResources/garage/skin/tank/hunter/default	7803997	85245be4ac62ec86e21d91d16422b353	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hunter-hd	Resources/GameResources/garage/skin/tank/hunter/hd	20286289	ad43274c3fb1a537cd98a9dfc33c6135	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hunter-old	Resources/GameResources/garage/skin/tank/hunter/old	7553420	6f965022e941ad2333aa140611e67899	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-hunter-xt	Resources/GameResources/garage/skin/tank/hunter/xt	5045901	0501b999d0efb852bc733e5e9abe87ad	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-mammoth	Resources/GameResources/garage/skin/tank/mammoth	21166760	0291f267df8e11ee9666a87672e32f31	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-titan-20	Resources/GameResources/garage/skin/tank/titan/20	14957135	a7dbe0d1b5ba51487e9f525d61ed55bf	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-titan-default	Resources/GameResources/garage/skin/tank/titan/default	7465677	3a73a4cc9cb1e0f96b20c23887a38a2f	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-titan-old	Resources/GameResources/garage/skin/tank/titan/old	7819576	55c317d2969b001d57a880892509a8cd	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-titan-xt	Resources/GameResources/garage/skin/tank/titan/xt	5044713	3bca9d7a1f41cfae2b028dc679662fdc	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-viking	Resources/GameResources/garage/skin/tank/viking	22948025	68b2decaf969fbb9353fbf7f756eee57	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-wasp-20	Resources/GameResources/garage/skin/tank/wasp/20	13792717	ae5f459e20b012950d7f1932e0a47650	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-wasp-default	Resources/GameResources/garage/skin/tank/wasp/default	7527787	ba694b4db1f8473b4949854ace767de4	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-wasp-old	Resources/GameResources/garage/skin/tank/wasp/old	7144189	a06f9aefa01a0512bb90dbb41e292ec6	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-wasp-xt	Resources/GameResources/garage/skin/tank/wasp/xt	5046561	ad3fcf0c68ab9355691eb33ea989cb60	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-ares	Resources/GameResources/garage/skin/tank/ares	12505694	c57c37e5a9c6f57f338bdbc413c97d86	
+C	GameResources-garage-skin-tank-dictator-20	Resources/GameResources/garage/skin/tank/dictator/20	16079091	9e32c58a52f98837b08a66baed2fcc8b	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-dictator-default	Resources/GameResources/garage/skin/tank/dictator/default	8067214	5a859599181479f275c721b24ffb75f5	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-dictator-old	Resources/GameResources/garage/skin/tank/dictator/old	7799873	4f001cd79fa37d4a59a44db416dda518	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-dictator-xt	Resources/GameResources/garage/skin/tank/dictator/xt	5064525	44811a08b4deabbeed5d0eaffb57892f	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hornet-default	Resources/GameResources/garage/skin/tank/hornet/default	7516643	0681ee30a0cd665ee49c2efa13876f41	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hornet-hd	Resources/GameResources/garage/skin/tank/hornet/hd	20386479	789077acad49ac3a89fdb6437ccb55be	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hornet-old	Resources/GameResources/garage/skin/tank/hornet/old	6157661	ef65611d26638ef816272cf06c9f7df4	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hornet-xt	Resources/GameResources/garage/skin/tank/hornet/xt	7612713	35cd78c24c2029468126f1a01956c7a4	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hunter-default	Resources/GameResources/garage/skin/tank/hunter/default	7802532	e43f499dc10cf87646beea2c836f940f	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hunter-hd	Resources/GameResources/garage/skin/tank/hunter/hd	20284813	6b5e1381d34f7531bda93116db3fcfb8	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hunter-old	Resources/GameResources/garage/skin/tank/hunter/old	7551951	c3d0129977121e47ea78aad1fd278204	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-hunter-xt	Resources/GameResources/garage/skin/tank/hunter/xt	5044427	d14b994b74d2b43e003d6a01c1c845b5	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-mammoth	Resources/GameResources/garage/skin/tank/mammoth	21162319	0b5b4a58fd4b0f2093d8bcf567e4b684	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-titan-20	Resources/GameResources/garage/skin/tank/titan/20	14955650	e4b30cf13ef88d7387824fc909aa2b62	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-titan-default	Resources/GameResources/garage/skin/tank/titan/default	7464201	4a948460677e393eba1914ac841ef5b1	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-titan-old	Resources/GameResources/garage/skin/tank/titan/old	7818107	e59d13bcfd5f961dd6fdb67aedad6f1e	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-titan-xt	Resources/GameResources/garage/skin/tank/titan/xt	5043238	667f71bbc32cf7d4682eb7b137e149ec	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-viking	Resources/GameResources/garage/skin/tank/viking	22933734	5352fb04dc3b0b945d5e59c0d54c3094	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-wasp-20	Resources/GameResources/garage/skin/tank/wasp/20	13782866	2b21cdf44e3016250856b395e23f9647	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-wasp-default	Resources/GameResources/garage/skin/tank/wasp/default	7517895	5e14487fdb680af09488725238a23a2f	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-wasp-old	Resources/GameResources/garage/skin/tank/wasp/old	7134301	ae577ca00eb98a2dac1bb9091de1aac3	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-wasp-xt	Resources/GameResources/garage/skin/tank/wasp/xt	5036673	a9927d1e132edfe63d2a660354717f2d	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-_files	Resources/GameResources/garage/skin/weapon	1232	7827d609a3a369f28535342ad89242dd	
 C	GameResources-garage-skin-weapon-flamethrower	Resources/GameResources/garage/skin/weapon/flamethrower	9590920	3504b38bb0abddea3aea5f1f4a2bbe81	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
 C	GameResources-garage-skin-weapon-freeze	Resources/GameResources/garage/skin/weapon/freeze	7692918	9d05805635548bb32bb57c094b7a86f8	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/weapon/flamethrower
