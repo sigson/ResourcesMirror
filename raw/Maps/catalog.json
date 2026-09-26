@@ -33973,26 +33973,26 @@
   {
    "file": "Maps/Pripyat_new_summer.xml",
    "id": "Pripyat_new_summer",
-   "source": "ours",
-   "source_path": "DotTanks4Sharp/Resources/Maps/Pripyat_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Maps/Pripyat",
    "copies": [],
-   "base": "pripyat_new_summer",
+   "base": "Pripyat",
    "season": "summer",
    "version": "new",
    "name": {
     "ru": null,
     "en": "PripyatNewSummer"
    },
-   "props": 0,
+   "props": 1,
    "spawns": {
-    "dm": 6,
-    "blue": 3,
-    "red": 3
+    "dm": 16,
+    "red": null,
+    "blue": null
    },
    "regions": 1,
    "ctf": false,
    "dom": 0,
-   "anchors": false,
+   "anchors": true,
    "remaster": false,
    "missing_props": 0,
    "missing_textures": 0,
@@ -34002,15 +34002,17 @@
    "prop_substitutions": {},
    "cross_version_libs": [],
    "approx_props": {},
-   "selectable": false,
+   "selectable": true,
    "hints": {
     "tlvk": {},
     "pro": {}
    },
    "preview": true,
-   "skybox": "hills_day",
+   "skybox": "Summer",
    "theme": null,
-   "preview_source": "placeholder"
+   "preview_source": "placeholder",
+   "static_model": "res://Resources/Battle/StaticMaps/Pripyat/Pripyat.scn",
+   "static_triangles": 554857
   },
   {
    "file": "Maps/Prospect_new_summer.xml",
@@ -46702,6 +46704,58 @@
    "preview": true,
    "skybox": "mountains_day",
    "theme": "pro_summer_mountains"
+  },
+  {
+   "id": "Agroprom_new_summer",
+   "file": "Maps/Agroprom_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Maps/Agroprom",
+   "base": "Agroprom",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": null,
+    "en": "Agroprom"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/Agroprom/Agroprom.scn",
+   "static_triangles": 424749,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null
+  },
+  {
+   "id": "CNPP_new_summer",
+   "file": "Maps/CNPP_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Maps/CNPP",
+   "base": "CNPP",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": null,
+    "en": "CNPP"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CNPP/CNPP.scn",
+   "static_triangles": 135161,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null
   }
  ]
 }

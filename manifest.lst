@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	3931258404
-#chunks	3605
+#total	4134436184
+#chunks	3635
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24139456	8ce93633d6f6dbe5b1886f1a453bcf51	
@@ -323,10 +323,38 @@ C	Battle-Landscape_old-trees	Resources/Battle/Landscape_old/trees	318188	81c3752
 C	Battle-Landscape_old-treeswinter	Resources/Battle/Landscape_old/treeswinter	329436	bd410a58b6927dcc0c3ebeb648e45803	
 C	Battle-Landscape_old-villagehouses	Resources/Battle/Landscape_old/villagehouses	4454904	227b63e9c0279223aeeaa0e328791ec9	
 C	Battle-Landscape_old-villagehouseswinter	Resources/Battle/Landscape_old/villagehouseswinter	4275076	933674c73bb2137d9d446ee8817f8b70	
-C	Battle-Landscape_old-wafflefence	Resources/Battle/Landscape_old/wafflefence	323060	6574961e3e1e8ac0782fbe36ef00c182	
+C	Battle-Landscape_old-wafflefence	Resources/Battle/Landscape_old/wafflefence	324532	6a4d71eedcf0f66abd52a76411720340	
 C	Battle-Landscape_old-wafflefencewinter	Resources/Battle/Landscape_old/wafflefencewinter	355936	dc7df13e80f5574d0d17da70525478ac	
 C	Battle-Landscape_old-yonje	Resources/Battle/Landscape_old/yonje	13219828	367ba9ef7dd4cf5b4576fa8e9f5cd270	
 C	Battle-Landscape_old-zamin	Resources/Battle/Landscape_old/zamin	13793368	c9df0e0e10692205a48e62cc4b6e1785	
+C	Battle-StaticMaps-Agroprom-_files	Resources/Battle/StaticMaps/Agroprom	99488	663f9663c0cc9b85aba8290cc0ec9161	Resources/Battle/StaticMaps/Agroprom/meshes;Resources/Battle/StaticMaps/Agroprom/textures
+C	Battle-StaticMaps-Agroprom-meshes	Resources/Battle/StaticMaps/Agroprom/meshes	19067444	ee6d6d722b8f26a3c8d5d9e9f836ba42	
+C	Battle-StaticMaps-Agroprom-textures	Resources/Battle/StaticMaps/Agroprom/textures	24974164	c24e257946c90551969380da172defbf	
+C	Battle-StaticMaps-Agroprom-textures-p2	Resources/Battle/StaticMaps/Agroprom/textures	17979504	3cfeec8086f5d00df6073a61293648b0	
+C	Battle-StaticMaps-CNPP-_files	Resources/Battle/StaticMaps/CNPP	62104	ac6fe8105744fb6eaa0835cab5d02149	Resources/Battle/StaticMaps/CNPP/meshes;Resources/Battle/StaticMaps/CNPP/textures
+C	Battle-StaticMaps-CNPP-meshes	Resources/Battle/StaticMaps/CNPP/meshes	19311108	73cde7ca23e185c15461945f53614a37	
+C	Battle-StaticMaps-CNPP-textures	Resources/Battle/StaticMaps/CNPP/textures	25005128	b89a0032be076bb96723c7d758d408e8	
+C	Battle-StaticMaps-CNPP-textures-p2	Resources/Battle/StaticMaps/CNPP/textures	3216692	b726dbac78a05272e1e07ed89f916f6a	
+C	Battle-StaticMaps-Pripyat-_files	Resources/Battle/StaticMaps/Pripyat	108908	bb0185999af3dfaae14b3b9d02e92d85	Resources/Battle/StaticMaps/Pripyat/meshes;Resources/Battle/StaticMaps/Pripyat/textures/act;Resources/Battle/StaticMaps/Pripyat/textures/crete;Resources/Battle/StaticMaps/Pripyat/textures/door;Resources/Battle/StaticMaps/Pripyat/textures/fbr;Resources/Battle/StaticMaps/Pripyat/textures/fx;Resources/Battle/StaticMaps/Pripyat/textures/glas;Resources/Battle/StaticMaps/Pripyat/textures/grnd;Resources/Battle/StaticMaps/Pripyat/textures/item;Resources/Battle/StaticMaps/Pripyat/textures/mtl;Resources/Battle/StaticMaps/Pripyat/textures/prop;Resources/Battle/StaticMaps/Pripyat/textures/sign;Resources/Battle/StaticMaps/Pripyat/textures/ston;Resources/Battle/StaticMaps/Pripyat/textures/terrain;Resources/Battle/StaticMaps/Pripyat/textures/trees;Resources/Battle/StaticMaps/Pripyat/textures/veh;Resources/Battle/StaticMaps/Pripyat/textures/wind;Resources/Battle/StaticMaps/Pripyat/textures/wood
+C	Battle-StaticMaps-Pripyat-meshes	Resources/Battle/StaticMaps/Pripyat/meshes	24963672	77b2f4b52f3f57847409f1843c919808	
+C	Battle-StaticMaps-Pripyat-meshes-p2	Resources/Battle/StaticMaps/Pripyat/meshes	8293172	393f58569505e04ef761db119b5cf48c	
+C	Battle-StaticMaps-Pripyat-textures-act	Resources/Battle/StaticMaps/Pripyat/textures/act	1247056	127bdc757b969f66ce3426f0a45508e3	
+C	Battle-StaticMaps-Pripyat-textures-crete	Resources/Battle/StaticMaps/Pripyat/textures/crete	8635732	51dce390d59a1ff45d1a88cc8165609f	
+C	Battle-StaticMaps-Pripyat-textures-door	Resources/Battle/StaticMaps/Pripyat/textures/door	1139564	16c0d926c2ac08efbef5c42a09e398d2	
+C	Battle-StaticMaps-Pripyat-textures-fbr	Resources/Battle/StaticMaps/Pripyat/textures/fbr	175292	5cf82c34606ae6ac501ebee29ca5be5a	
+C	Battle-StaticMaps-Pripyat-textures-fx	Resources/Battle/StaticMaps/Pripyat/textures/fx	44216	818e99c39e1b93897e24547b1d5ea788	
+C	Battle-StaticMaps-Pripyat-textures-glas	Resources/Battle/StaticMaps/Pripyat/textures/glas	87912	4352088cd5f0b2bef3e6f071ae4467c7	
+C	Battle-StaticMaps-Pripyat-textures-grnd	Resources/Battle/StaticMaps/Pripyat/textures/grnd	743604	0fdde220862940fae838b091cdc601c6	
+C	Battle-StaticMaps-Pripyat-textures-item	Resources/Battle/StaticMaps/Pripyat/textures/item	22380	18450d05e274e4bafca4ab768f924ed7	
+C	Battle-StaticMaps-Pripyat-textures-mtl	Resources/Battle/StaticMaps/Pripyat/textures/mtl	6584028	b933216dc0636831e8d3da78a34959fd	
+C	Battle-StaticMaps-Pripyat-textures-prop	Resources/Battle/StaticMaps/Pripyat/textures/prop	9252880	6ede4fb882d260f953e1333f409ade09	
+C	Battle-StaticMaps-Pripyat-textures-sign	Resources/Battle/StaticMaps/Pripyat/textures/sign	87916	5d1b0a63e0f5f4c26f4c5e67495af4ea	
+C	Battle-StaticMaps-Pripyat-textures-ston	Resources/Battle/StaticMaps/Pripyat/textures/ston	9028724	9dd4465b288004be9a99d51c3446eb3d	
+C	Battle-StaticMaps-Pripyat-textures-terrain	Resources/Battle/StaticMaps/Pripyat/textures/terrain	2097664	a1ce1f778bbb30ca862d507f48b02159	
+C	Battle-StaticMaps-Pripyat-textures-trees	Resources/Battle/StaticMaps/Pripyat/textures/trees	350096	3315c0adf237cf70322e5b5beec2e07a	
+C	Battle-StaticMaps-Pripyat-textures-veh	Resources/Battle/StaticMaps/Pripyat/textures/veh	1442992	7c25e078ad5564c6ca192a026768fbb8	
+C	Battle-StaticMaps-Pripyat-textures-wind	Resources/Battle/StaticMaps/Pripyat/textures/wind	1139880	f31c4ae28dfa35e21fffe4d94349f197	
+C	Battle-StaticMaps-Pripyat-textures-wood	Resources/Battle/StaticMaps/Pripyat/textures/wood	2463288	e3e5a8d16e3d6d628910bef1f6398fa7	
 C	GameResources-battle	Resources/GameResources/battle	13402576	7f7a25b04e94aa009bb1fd7b15a742be	
 C	GameResources-battle-bonus	Resources/GameResources/battle/bonus	8660	14d5455fa405951ad1d1e9a0365d3329	
 C	GameResources-battle-bonusskin	Resources/GameResources/battle/bonusskin	24861312	e5d1d20b28d47e90c02b5c94e43c6686	
@@ -2727,6 +2755,7 @@ C	Maps-AbyssOld_new_summer.xml	Resources/Maps/AbyssOld_new_summer.xml	1492308	fc
 C	Maps-Abyss_new_summer.xml	Resources/Maps/Abyss_new_summer.xml	1477184	14c011c3866a8ff5c7e10f40917b502d	
 C	Maps-Abyss_old_summer.xml	Resources/Maps/Abyss_old_summer.xml	1502928	3cb809c34cd822e31a4e0c1e86a0b066	
 C	Maps-Abyss_old_winter.xml	Resources/Maps/Abyss_old_winter.xml	1523616	631a71d66349ff3126509ef45f6d80d0	
+C	Maps-Agroprom_new_summer.xml	Resources/Maps/Agroprom_new_summer.xml	4628724	83607c8174bbb9e7e396de35032f27b6	
 C	Maps-AleksandrovskMm_new_summer.xml	Resources/Maps/AleksandrovskMm_new_summer.xml	1984044	f49784408fb1551fb39a811b7463b077	
 C	Maps-AleksandrovskMm_new_winter.xml	Resources/Maps/AleksandrovskMm_new_winter.xml	2010188	015a6f441a8524192ef095cbe5eb09a3	
 C	Maps-AleksandrovskMt_new_summer.xml	Resources/Maps/AleksandrovskMt_new_summer.xml	1435980	7df1b1f16c7aaf05254cd4a18c85efce	
@@ -2834,6 +2863,7 @@ C	Maps-Bridges_new_winter.xml	Resources/Maps/Bridges_new_winter.xml	1046996	da69
 C	Maps-Bridges_old_summer.xml	Resources/Maps/Bridges_old_summer.xml	834308	385dc045a3ba0ebc43895c9fdcbd921e	
 C	Maps-Bridges_old_winter.xml	Resources/Maps/Bridges_old_winter.xml	843972	bb3e23a14b105833608455561fa05b58	
 C	Maps-BunkerVektorTv_new_summer.xml	Resources/Maps/BunkerVektorTv_new_summer.xml	379928	6640f0bd839cb91bab2128e3af3ca06c	
+C	Maps-CNPP_new_summer.xml	Resources/Maps/CNPP_new_summer.xml	2599056	44274ee4ec11ae1139b3e580e1f6113f	
 C	Maps-CampOld_new_summer.xml	Resources/Maps/CampOld_new_summer.xml	310292	cfae2ee29ce134b32c42aae01fc1491b	
 C	Maps-CampOld_new_winter.xml	Resources/Maps/CampOld_new_winter.xml	315044	c09e8dcb38c5c8d0d9f982dfe5865fe3	
 C	Maps-CampPro_new_winter.xml	Resources/Maps/CampPro_new_winter.xml	444964	d3d0af2ebac3c567f12d808047cb4e1e	
@@ -3347,7 +3377,7 @@ C	Maps-Port_new_summer.xml	Resources/Maps/Port_new_summer.xml	761424	454ec047425
 C	Maps-PositionOld_new_summer.xml	Resources/Maps/PositionOld_new_summer.xml	597160	41b294d9281e7dada3f890a083553e69	
 C	Maps-Position_new_summer.xml	Resources/Maps/Position_new_summer.xml	595732	e9be78e1b0efb6bb72777ac70c0d13a0	
 C	Maps-PratoNy_new_summer.xml	Resources/Maps/PratoNy_new_summer.xml	1328036	07f3abd396306862ae1c64b21ad2f400	
-C	Maps-Pripyat_new_summer.xml	Resources/Maps/Pripyat_new_summer.xml	2420	3bb4105e1dd3495950f06cdb9bda3fcf	
+C	Maps-Pripyat_new_summer.xml	Resources/Maps/Pripyat_new_summer.xml	8325140	b86c5629d340cec8c2ec78204ca591f8	
 C	Maps-Prospect_new_summer.xml	Resources/Maps/Prospect_new_summer.xml	733460	0a5db9b74c86a41fa732728e65a4f8d5	
 C	Maps-Prospect_new_winter.xml	Resources/Maps/Prospect_new_winter.xml	411684	0642191feb882a521ac85f576de0df2a	
 C	Maps-Province_new_summer.xml	Resources/Maps/Province_new_summer.xml	2998932	b2783afb0456de0356113a7f56d87c68	
@@ -3584,7 +3614,7 @@ C	Maps-Zone_new_summer.xml	Resources/Maps/Zone_new_summer.xml	476592	76e9fdb9298
 C	Maps-Zone_new_winter.xml	Resources/Maps/Zone_new_winter.xml	485808	9569c7b5b62f7b5374b9031ab67d365d	
 C	Maps-Zone_old_summer.xml	Resources/Maps/Zone_old_summer.xml	482288	c81177416788d142b8aab27d853420e4	
 C	Maps-________.xml	Resources/Maps/Подземка.xml	1032656	b022be780df0865e5beeec7712ec6c4b	
-C	Maps-catalog.json	Resources/Maps/catalog.json	1074488	c0a5d777c240ef3382bf6f2e0f851f9a	
+C	Maps-catalog.json	Resources/Maps/catalog.json	1075688	c314be6c7d4e2fb95401261ffef048dd	Resources/Battle/StaticMaps/Agroprom;Resources/Battle/StaticMaps/CNPP;Resources/Battle/StaticMaps/Pripyat
 C	thumbs-GameResources-battle	Resources/#thumbs/GameResources/battle	3680	c5c85f74f4c440a681147ce53e55f477	
 C	thumbs-GameResources-garage	Resources/#thumbs/GameResources/garage	972280	55b102d47161661d62f326d04cada451	
 C	thumbs-GameResources-garage-colormap	Resources/#thumbs/GameResources/garage/colormap	21067544	875992c1db19400106e17163c5f2a76b	

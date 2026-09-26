@@ -11,6 +11,7 @@ F	Maps/AbyssOld_new_summer.xml	1492103	76100eed0d0616bbbd2628f8ad54438a
 F	Maps/Abyss_new_summer.xml	1476992	b1795f2e6a4c6a4ff3060433e286b537
 F	Maps/Abyss_old_summer.xml	1502730	b72358230ca0cbdff848e11e49dd523e
 F	Maps/Abyss_old_winter.xml	1523420	93e196141acb37ca45ac0b5ff0e1815a
+F	Maps/Agroprom_new_summer.xml	4628528	b314d256626286cfc845f54910b18f1c
 F	Maps/AleksandrovskMm_new_summer.xml	1983831	77daefdd9a14fdca88f994a97f2fbf1b
 F	Maps/AleksandrovskMm_new_winter.xml	2009969	fc6377da3c321ddad2e74db8a3ff2c8c
 F	Maps/AleksandrovskMt_new_summer.xml	1435775	671f0202267cb96009685ad84f31410c
@@ -118,6 +119,7 @@ F	Maps/Bridges_new_winter.xml	1046792	71e5539f133f3d809d2788975d0ccb4c
 F	Maps/Bridges_old_summer.xml	834106	754ad03ac72e1283d602a1920db2c9dd
 F	Maps/Bridges_old_winter.xml	843766	95e2a1e1113798ee316c6ba233011f33
 F	Maps/BunkerVektorTv_new_summer.xml	379721	7496b3452835e12cbd3092529a02890c
+F	Maps/CNPP_new_summer.xml	2598852	897dfd6fa2418915d2f821939d61e281
 F	Maps/CampOld_new_summer.xml	310083	fc0b813facc5ba3ac94ec286d382fe26
 F	Maps/CampOld_new_winter.xml	314841	a76c1110f2094f9bfd9fe9676393e482
 F	Maps/CampPro_new_winter.xml	444768	e8aae0470124f69ad02d3183b566f687
@@ -631,7 +633,7 @@ F	Maps/Port_new_summer.xml	761223	47ee86caff6616a1047f5b166f1be575
 F	Maps/PositionOld_new_summer.xml	596950	4c1d9d17125082f01d628ae0cd02214e
 F	Maps/Position_new_summer.xml	595535	952eff4dfbf73c9d1748bde3a5508ae0
 F	Maps/PratoNy_new_summer.xml	1327834	ec00d11c5d1ec97a80f88c828965bc14
-F	Maps/Pripyat_new_summer.xml	2214	39dd2efe2378fe8761b7e548439f0080
+F	Maps/Pripyat_new_summer.xml	8324940	9a86db4e77b9c69248439c7b83014d10
 F	Maps/Prospect_new_summer.xml	733251	93c9f2d88753033335fcec41feca078c
 F	Maps/Prospect_new_winter.xml	411477	3cb6d775b7d4a1aac678a9dcadb1730d
 F	Maps/Province_new_summer.xml	2998728	79fd0f5680ccb4cc1009e70cc295ec51
@@ -867,5 +869,5 @@ F	Maps/ZoneTlvk_new_summer.xml	463694	3f3e4f588e1fae4054a153748ccdb14e
 F	Maps/Zone_new_summer.xml	476387	cb518a4644a6bc46605d11eb8c6c17a0
 F	Maps/Zone_new_winter.xml	485604	cca8063a1e49c8655d5ac82700041c70
 F	Maps/Zone_old_summer.xml	482083	3ee53145b80c9fa32d5dfc90f1be7110
-F	Maps/catalog.json	1074292	d90f7612bf42c253c33027df27bfbfb6
+F	Maps/catalog.json	1075498	dc14623a0199d054d4d7a7e241de1830
 F	Maps/Подземка.xml	1032451	0728f39fc2848da9e4abe88f15d4d26d
