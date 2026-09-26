@@ -8495,9 +8495,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Construction_new_summer.xml",
@@ -12964,9 +12965,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/DusseldorfOld_new_summer.xml",
@@ -15034,9 +15036,10 @@
      }
     }
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": "summer_day"
+   "theme": "summer_day",
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/ForestOld_new_summer.xml",
@@ -15698,9 +15701,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/FortknoxIi_old_winter.xml",
@@ -15739,9 +15743,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/FortknoxIii_old_summer.xml",
@@ -15780,9 +15785,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/FortknoxIii_old_winter.xml",
@@ -15821,9 +15827,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/FortKnoxIiiOld_new_summer.xml",
@@ -18216,9 +18223,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Halloween2023Dxxth_new_summer.xml",
@@ -18463,9 +18471,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenBarda_new_summer.xml",
@@ -18504,9 +18513,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenBoombox_new_summer.xml",
@@ -18545,9 +18555,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenFortress_new_summer.xml",
@@ -18630,9 +18641,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenHills_new_summer.xml",
@@ -18669,9 +18681,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenLargebridge_new_summer.xml",
@@ -18714,9 +18727,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenSandal_new_summer.xml",
@@ -18755,9 +18769,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenSandbox_new_summer.xml",
@@ -18796,9 +18811,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenSilence_new_summer.xml",
@@ -18837,9 +18853,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HalloweenWolfenstein_new_summer.xml",
@@ -18878,9 +18895,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HangarsOld_new_summer.xml",
@@ -19443,9 +19461,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HighlandIi_old_winter.xml",
@@ -19486,9 +19505,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/HighlandIiOld_new_summer.xml",
@@ -21323,9 +21343,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/IndustrialZone_old_winter.xml",
@@ -29247,9 +29268,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Novel_new_summer.xml",
@@ -33450,9 +33472,10 @@
      }
     }
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_day",
-   "theme": "winter_day"
+   "theme": "winter_day",
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/PolygonOld_new_summer.xml",
@@ -33984,9 +34007,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "hills_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Prospect_new_summer.xml",
@@ -34066,9 +34090,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Province_new_summer.xml",
@@ -35627,9 +35652,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/RioOld_new_summer.xml",
@@ -39591,9 +39617,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/SilenceDemonic_new_summer.xml",
@@ -40198,9 +40225,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_day",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/SilenceSpace_old_winter.xml",
@@ -40239,9 +40267,10 @@
     "tlvk": {},
     "pro": {}
    },
-   "preview": false,
+   "preview": true,
    "skybox": "winter_old",
-   "theme": null
+   "theme": null,
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/SilenceTlvk_new_winter.xml",
@@ -41130,9 +41159,10 @@
      }
     }
    },
-   "preview": false,
+   "preview": true,
    "skybox": "new_year",
-   "theme": "pro_newyear"
+   "theme": "pro_newyear",
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Snowbattle_new_summer.xml",
@@ -41187,9 +41217,10 @@
      }
     }
    },
-   "preview": false,
+   "preview": true,
    "skybox": "new_year",
-   "theme": "pro_newyear"
+   "theme": "pro_newyear",
+   "preview_source": "placeholder"
   },
   {
    "file": "Maps/Solikamsk1100_new_summer.xml",

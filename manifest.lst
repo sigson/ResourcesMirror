@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	3931022332
-#chunks	3574
+#total	3931258404
+#chunks	3605
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24139456	8ce93633d6f6dbe5b1886f1a453bcf51	
@@ -1982,6 +1982,7 @@ C	GameResources-maps-ui-preview-res-Combe_new_summer.jpg	Resources/GameResources
 C	GameResources-maps-ui-preview-res-Combe_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Combe_new_winter.jpg	328244	0781ac1dc14e7eb2e4d49c141d5c8ffa	
 C	GameResources-maps-ui-preview-res-Combe_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Combe_old_summer.jpg	544804	07bd4dec572ca7977dfbe61de675c7a4	
 C	GameResources-maps-ui-preview-res-Combe_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Combe_old_winter.jpg	411412	f53c4916b8fbd66a4883f4e607238bd4	
+C	GameResources-maps-ui-preview-res-Concert_new_summer.png	Resources/GameResources/maps/ui/preview/res/Concert_new_summer.png	6648	8872cb7a51b334d1a2919795db27e58e	
 C	GameResources-maps-ui-preview-res-Confrontation_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Confrontation_new_summer.jpg	527476	c352535d13a6d26dd54d09133543e40b	
 C	GameResources-maps-ui-preview-res-Construction_new_summer.png	Resources/GameResources/maps/ui/preview/res/Construction_new_summer.png	372516	20f30a847757ff788c618c469ea2cadb	
 C	GameResources-maps-ui-preview-res-Containers_new_summer.png	Resources/GameResources/maps/ui/preview/res/Containers_new_summer.png	382220	954e4b01f16bbcfe34e8b8251b463a4a	
@@ -2067,6 +2068,7 @@ C	GameResources-maps-ui-preview-res-Dusseldorf_new_summer.jpg	Resources/GameReso
 C	GameResources-maps-ui-preview-res-Dusseldorf_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Dusseldorf_new_winter.jpg	450940	5c1a84632d5676f2adcc429e1a758607	
 C	GameResources-maps-ui-preview-res-Dusseldorf_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Dusseldorf_old_summer.jpg	444252	ffea34a5623f1c4e0ce4a4c8b1b450d1	
 C	GameResources-maps-ui-preview-res-Dusseldorf_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Dusseldorf_old_winter.jpg	510700	537cd409cd2bcf379caf91a9bec63f75	
+C	GameResources-maps-ui-preview-res-Dusseldorff_new_summer.png	Resources/GameResources/maps/ui/preview/res/Dusseldorff_new_summer.png	7424	581275eec214fd984d16276d7677e930	
 C	GameResources-maps-ui-preview-res-Dust2_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Dust2_new_summer.jpg	498948	1b211692b847d25890339d65aada7fcf	
 C	GameResources-maps-ui-preview-res-Dust2_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Dust2_new_winter.jpg	438356	535817490e4c57eb07c8f73853486106	
 C	GameResources-maps-ui-preview-res-Edinburgh_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Edinburgh_new_summer.jpg	434524	0ed73744e48d094e8c3c750d0bb511c3	
@@ -2097,6 +2099,7 @@ C	GameResources-maps-ui-preview-res-Forest1100_new_summer.jpg	Resources/GameReso
 C	GameResources-maps-ui-preview-res-ForestMmRemaster_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/ForestMmRemaster_new_summer.jpg	441084	e073a0b92ace14162f9c4ccf09ca40ec	
 C	GameResources-maps-ui-preview-res-ForestMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/ForestMm_new_summer.png	434732	9806b0cb1d4efb8bf625f7c237c0d1c1	
 C	GameResources-maps-ui-preview-res-ForestMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/ForestMm_new_winter.png	395820	fbd15690b74f64612a347b784eaaf814	
+C	GameResources-maps-ui-preview-res-ForestMt_new_summer.png	Resources/GameResources/maps/ui/preview/res/ForestMt_new_summer.png	6892	68e8bfcb816fb1abed2b1c577553382c	
 C	GameResources-maps-ui-preview-res-ForestOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/ForestOld_new_summer.jpg	494812	99be86b23407f5c325cf6cac9e687e71	
 C	GameResources-maps-ui-preview-res-ForestOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/ForestOld_new_winter.jpg	383772	872e8bc122740383d20b13f3827b0372	
 C	GameResources-maps-ui-preview-res-ForestTlvk_new_summer.png	Resources/GameResources/maps/ui/preview/res/ForestTlvk_new_summer.png	469308	ccd3933386aed08793dcccb7cea945b2	
@@ -2116,6 +2119,10 @@ C	GameResources-maps-ui-preview-res-Fortknox2_old_summer.jpg	Resources/GameResou
 C	GameResources-maps-ui-preview-res-Fortknox2_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox2_old_winter.jpg	486140	016810ecc835a9b359d4c038cd1643bc	
 C	GameResources-maps-ui-preview-res-Fortknox3_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox3_old_summer.jpg	427916	58fb1e80159f0479654515003fadb3ac	
 C	GameResources-maps-ui-preview-res-Fortknox3_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox3_old_winter.jpg	448524	6648b897a65b91735e883e65454cdddb	
+C	GameResources-maps-ui-preview-res-FortknoxIi_old_summer.png	Resources/GameResources/maps/ui/preview/res/FortknoxIi_old_summer.png	6812	134b1683eaa50d71a3ff2584475df66f	
+C	GameResources-maps-ui-preview-res-FortknoxIi_old_winter.png	Resources/GameResources/maps/ui/preview/res/FortknoxIi_old_winter.png	6828	5fe8baa8b9e0a61b40ffc6c53fc58d34	
+C	GameResources-maps-ui-preview-res-FortknoxIii_old_summer.png	Resources/GameResources/maps/ui/preview/res/FortknoxIii_old_summer.png	6816	1f65b20c012b0d2b048e641b020327a6	
+C	GameResources-maps-ui-preview-res-FortknoxIii_old_winter.png	Resources/GameResources/maps/ui/preview/res/FortknoxIii_old_winter.png	6768	b3a875188978fa69398900b52792d4f2	
 C	GameResources-maps-ui-preview-res-Fortknox_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox_new_summer.jpg	360092	2550cab274137e9c0e36b57ef6fc1640	
 C	GameResources-maps-ui-preview-res-Fortknox_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox_new_winter.jpg	328556	f92e13dc8b778ae11a0fcb31cbef6e03	
 C	GameResources-maps-ui-preview-res-Fortknox_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Fortknox_old_summer.jpg	423708	cdeea31e5c33e8c17cdaa808d86377c1	
@@ -2159,10 +2166,21 @@ C	GameResources-maps-ui-preview-res-Halloween2016VektorTv_new_summer.png	Resourc
 C	GameResources-maps-ui-preview-res-Halloween2016_new_summer.png	Resources/GameResources/maps/ui/preview/res/Halloween2016_new_summer.png	226212	fa1b90db67769e35765de6ef4d6cf056	
 C	GameResources-maps-ui-preview-res-Halloween2018_new_summer.png	Resources/GameResources/maps/ui/preview/res/Halloween2018_new_summer.png	297524	48970cc9fd11ec2fc8ebbdb667666868	
 C	GameResources-maps-ui-preview-res-Halloween2019_new_summer.png	Resources/GameResources/maps/ui/preview/res/Halloween2019_new_summer.png	287092	b1409bc0c346bf4bd866d0063b1a7bd9	
+C	GameResources-maps-ui-preview-res-Halloween2020_old_summer.png	Resources/GameResources/maps/ui/preview/res/Halloween2020_old_summer.png	8228	255e6c3be5ec037cabaab48ea2c22765	
 C	GameResources-maps-ui-preview-res-Halloween2023Dxxth_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Halloween2023Dxxth_new_summer.jpg	239772	1e88ebe5407a0b7c71ecdd1c51e426d1	
 C	GameResources-maps-ui-preview-res-Halloween2023Errorcg_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Halloween2023Errorcg_new_summer.jpg	292948	8b84f06c81370220079a1a1ecd59540d	
 C	GameResources-maps-ui-preview-res-Halloween2023SandboxMmRemaster_new_autumn.png	Resources/GameResources/maps/ui/preview/res/Halloween2023SandboxMmRemaster_new_autumn.png	426340	756d372a63e702195116203f0604372d	
+C	GameResources-maps-ui-preview-res-HalloweenAleksandrovsk_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenAleksandrovsk_new_summer.png	8612	e517615f8d6371531b14ebbfc851e9ac	
+C	GameResources-maps-ui-preview-res-HalloweenBarda_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenBarda_new_summer.png	8052	3a3cc070a60359ab41b9d0940c8052d1	
+C	GameResources-maps-ui-preview-res-HalloweenBoombox_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenBoombox_new_summer.png	8700	b75dda3476fc3fb47eb06fb5118269d9	
 C	GameResources-maps-ui-preview-res-HalloweenFortress_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenFortress_new_summer.png	346492	6d9f88d8104f5a91eed3c896b946ed1a	
+C	GameResources-maps-ui-preview-res-HalloweenHighland_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenHighland_new_summer.png	8492	36a34281c5be7da4234074aca5b72b31	
+C	GameResources-maps-ui-preview-res-HalloweenHills_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenHills_new_summer.png	7508	108e91775b0c29d86a5207bfd50a4870	
+C	GameResources-maps-ui-preview-res-HalloweenLargebridge_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenLargebridge_new_summer.png	8388	0690c15267c6eebfe3edbda84669447c	
+C	GameResources-maps-ui-preview-res-HalloweenSandal_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenSandal_new_summer.png	8136	28c584936f9682a46dbb9370bfdbe1a0	
+C	GameResources-maps-ui-preview-res-HalloweenSandbox_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenSandbox_new_summer.png	8892	e36226f0939012c9b659b838daba580b	
+C	GameResources-maps-ui-preview-res-HalloweenSilence_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenSilence_new_summer.png	8220	1a0affa609e05f58970eb807ac480270	
+C	GameResources-maps-ui-preview-res-HalloweenWolfenstein_new_summer.png	Resources/GameResources/maps/ui/preview/res/HalloweenWolfenstein_new_summer.png	8724	061b1ff612f7d365ae5c3831f2c86ec3	
 C	GameResources-maps-ui-preview-res-Halloween_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Halloween_old_summer.jpg	316524	6816ded07b3724afc381bef261258f91	
 C	GameResources-maps-ui-preview-res-HangarsOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/HangarsOld_new_summer.jpg	417388	dcacf8afbf5669f0014d71fbf98db9f0	
 C	GameResources-maps-ui-preview-res-Harino_new_summer.png	Resources/GameResources/maps/ui/preview/res/Harino_new_summer.png	529156	5a4a32d1f2a1e993071f1aa8db0271e0	
@@ -2175,6 +2193,8 @@ C	GameResources-maps-ui-preview-res-HighlandIOld_new_summer.jpg	Resources/GameRe
 C	GameResources-maps-ui-preview-res-HighlandIOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/HighlandIOld_new_winter.jpg	405348	4775aba6249a42d6e03bc598ae77309e	
 C	GameResources-maps-ui-preview-res-HighlandIiOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/HighlandIiOld_new_summer.jpg	351860	2d6f44387dce7dda4a0bba4c2dab5afb	
 C	GameResources-maps-ui-preview-res-HighlandIiOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/HighlandIiOld_new_winter.jpg	393684	ac8e8914e0006160a44ac367a6434a52	
+C	GameResources-maps-ui-preview-res-HighlandIi_old_summer.png	Resources/GameResources/maps/ui/preview/res/HighlandIi_old_summer.png	6876	746fd3137ec92eb518164860c92c5984	
+C	GameResources-maps-ui-preview-res-HighlandIi_old_winter.png	Resources/GameResources/maps/ui/preview/res/HighlandIi_old_winter.png	6812	863e8d1c85e1475851c78b72155842bf	
 C	GameResources-maps-ui-preview-res-HighlandMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/HighlandMm_new_summer.png	414300	4c75840216d21e2ce53e9a2ec4213e1e	
 C	GameResources-maps-ui-preview-res-HighlandMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/HighlandMm_new_winter.png	414780	45c25e3c401a90ba90e0086f8c0d924f	
 C	GameResources-maps-ui-preview-res-HighlandMt_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/HighlandMt_new_summer.jpg	499596	3f797760ab8b0a243664f29e352ba7c1	
@@ -2214,6 +2234,7 @@ C	GameResources-maps-ui-preview-res-IndustrialZoneOld_new_winter.jpg	Resources/G
 C	GameResources-maps-ui-preview-res-IndustrialZone_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/IndustrialZone_new_summer.jpg	432516	ec1eeb3d2d7e5272f618fd98f3ea5145	
 C	GameResources-maps-ui-preview-res-IndustrialZone_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/IndustrialZone_new_winter.jpg	317236	756d0e4db2fde1e370d7988b51815f1c	
 C	GameResources-maps-ui-preview-res-IndustrialZone_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/IndustrialZone_old_winter.jpg	511748	d7e275d87780542e86a28bde977b5c6d	
+C	GameResources-maps-ui-preview-res-Industrialzone_old_summer.png	Resources/GameResources/maps/ui/preview/res/Industrialzone_old_summer.png	8180	91eb130399f69169b9dc5e4e617f6870	
 C	GameResources-maps-ui-preview-res-IranMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/IranMm_new_summer.png	368212	adae3823a7012f17753573124f407fad	
 C	GameResources-maps-ui-preview-res-IranNight_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/IranNight_new_winter.jpg	274076	f7a8ef9152bae5150965fb5f22dd5ad5	
 C	GameResources-maps-ui-preview-res-IranOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/IranOld_new_summer.jpg	319880	c69441c60e396172f92feb9e254346e6	
@@ -2354,6 +2375,7 @@ C	GameResources-maps-ui-preview-res-NewYearYorkshir_new_summer.jpg	Resources/Gam
 C	GameResources-maps-ui-preview-res-NoiseMt_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/NoiseMt_new_summer.jpg	429544	f76efb3cf8e2c6a5c6cc37b7fe7217f3	
 C	GameResources-maps-ui-preview-res-NoiseOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/NoiseOld_new_summer.jpg	344492	c3e631f40ef577b7b5031ded22466f02	
 C	GameResources-maps-ui-preview-res-NoiseOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/NoiseOld_new_winter.jpg	378940	886a8da38ef44a674afc73bea28d4ddb	
+C	GameResources-maps-ui-preview-res-NoiseSpace_old_winter.png	Resources/GameResources/maps/ui/preview/res/NoiseSpace_old_winter.png	8220	eae9278ef1188bdadf819602c5cd3b32	
 C	GameResources-maps-ui-preview-res-Noise_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Noise_new_summer.jpg	420068	ee59eb03d3e6f6d6d897fe671f244b85	
 C	GameResources-maps-ui-preview-res-Noise_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Noise_new_winter.jpg	362372	a21535041c39ad1db1b1c5fca8fecfdf	
 C	GameResources-maps-ui-preview-res-Noise_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Noise_old_summer.jpg	466484	64f0ca120021ea9356cf0693cbabf19c	
@@ -2430,6 +2452,7 @@ C	GameResources-maps-ui-preview-res-PolygonDemonic_new_summer.jpg	Resources/Game
 C	GameResources-maps-ui-preview-res-PolygonMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/PolygonMm_new_summer.png	491628	33ed23019d8166343c64c5adadc795b0	
 C	GameResources-maps-ui-preview-res-PolygonMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/PolygonMm_new_winter.png	436012	931d6313791a23134831b5bde0b8f18d	
 C	GameResources-maps-ui-preview-res-PolygonMt_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/PolygonMt_new_summer.jpg	499084	5a26c10489434d4c8437cd9cb1b2fab8	
+C	GameResources-maps-ui-preview-res-PolygonMt_new_winter.png	Resources/GameResources/maps/ui/preview/res/PolygonMt_new_winter.png	7052	e8e533bf35b51c843318d7bdd1fe66d9	
 C	GameResources-maps-ui-preview-res-PolygonOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/PolygonOld_new_summer.jpg	435628	6c67046bc8e65b4968733fa4489accaa	
 C	GameResources-maps-ui-preview-res-PolygonOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/PolygonOld_new_winter.jpg	411212	cfa5f614b8ccaec588f01e093c8ad0ef	
 C	GameResources-maps-ui-preview-res-PolygonPro_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/PolygonPro_new_summer.jpg	328172	a851d8a722a234b0bcb5cba1a5dc2930	
@@ -2444,7 +2467,9 @@ C	GameResources-maps-ui-preview-res-Port_new_summer.jpg	Resources/GameResources/
 C	GameResources-maps-ui-preview-res-PositionOld_new_summer.png	Resources/GameResources/maps/ui/preview/res/PositionOld_new_summer.png	406656	45fac50729ae9f71531832fc6cdfd0ba	
 C	GameResources-maps-ui-preview-res-Position_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Position_new_summer.jpg	440252	440c50a9df623ca4b9207ce332a70936	
 C	GameResources-maps-ui-preview-res-PratoNy_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/PratoNy_new_summer.jpg	404232	f5ab956c86e212fb7ec45cdaf2e5689c	
+C	GameResources-maps-ui-preview-res-Pripyat_new_summer.png	Resources/GameResources/maps/ui/preview/res/Pripyat_new_summer.png	6584	82f8298b50a52ffb8911bc00367ab7ba	
 C	GameResources-maps-ui-preview-res-Prospect_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Prospect_new_summer.jpg	424972	eb6227deb8b28c949a1cd8161a494b46	
+C	GameResources-maps-ui-preview-res-Prospect_new_winter.png	Resources/GameResources/maps/ui/preview/res/Prospect_new_winter.png	7212	2024cedbf436ccb2eb76e48c5d95ea1f	
 C	GameResources-maps-ui-preview-res-Province_new_summer.png	Resources/GameResources/maps/ui/preview/res/Province_new_summer.png	409260	4493ef2bdd409b4d4436a2b49ae36b31	
 C	GameResources-maps-ui-preview-res-Railwaystation_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Railwaystation_new_summer.jpg	529668	d85390bdf11722b93d246571c99927f3	
 C	GameResources-maps-ui-preview-res-Ravine_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Ravine_new_summer.jpg	519972	00302d8c62b6f03277d753594f6f1b91	
@@ -2474,6 +2499,7 @@ C	GameResources-maps-ui-preview-res-Ring_old_winter.jpg	Resources/GameResources/
 C	GameResources-maps-ui-preview-res-Ringrace_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Ringrace_new_summer.jpg	261836	e406f9e2080ccf5236d0aff6d34308c5	
 C	GameResources-maps-ui-preview-res-RioMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/RioMm_new_summer.png	421044	68ac9ef2abd30f6dc06fdf016b876a31	
 C	GameResources-maps-ui-preview-res-RioMt_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/RioMt_new_summer.jpg	395252	b94258e4c3b01791b3950741dc040c6b	
+C	GameResources-maps-ui-preview-res-RioNight_old_winter.png	Resources/GameResources/maps/ui/preview/res/RioNight_old_winter.png	7052	25031654117852abaf48f6e9b8f2f810	
 C	GameResources-maps-ui-preview-res-RioOld_new_summer.png	Resources/GameResources/maps/ui/preview/res/RioOld_new_summer.png	370228	b5e481960fb15f66ed1e449f8be2db36	
 C	GameResources-maps-ui-preview-res-RioPro_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/RioPro_new_summer.jpg	330436	daedf51ff7f0d251cbfecdf05b2ce520	
 C	GameResources-maps-ui-preview-res-Rio_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Rio_new_summer.jpg	465120	9c6458401136789fdcd0363408cb34e1	
@@ -2559,10 +2585,13 @@ C	GameResources-maps-ui-preview-res-SilenceMm_new_summer.png	Resources/GameResou
 C	GameResources-maps-ui-preview-res-SilenceMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/SilenceMm_new_winter.png	387660	0b5e1986bbce02fc8ed6903ab79b6d88	
 C	GameResources-maps-ui-preview-res-SilencePro_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/SilencePro_new_summer.jpg	343756	bebbda4f3ce3fe7f3e3341b4c3b8f056	
 C	GameResources-maps-ui-preview-res-SilenceRemakeCy95v_new_summer.png	Resources/GameResources/maps/ui/preview/res/SilenceRemakeCy95v_new_summer.png	342108	917d847c15ea8f035c3f9ab6883bf196	
+C	GameResources-maps-ui-preview-res-SilenceSpace_new_winter.png	Resources/GameResources/maps/ui/preview/res/SilenceSpace_new_winter.png	7572	d3d11cbd9912b02a870eef1df1a15a5a	
+C	GameResources-maps-ui-preview-res-SilenceSpace_old_winter.png	Resources/GameResources/maps/ui/preview/res/SilenceSpace_old_winter.png	7636	54470bd6841e9918950ec180de16ef6d	
 C	GameResources-maps-ui-preview-res-SilenceTlvk_new_winter.png	Resources/GameResources/maps/ui/preview/res/SilenceTlvk_new_winter.png	433056	6664fc59f93edabbe5c6660c14a0600a	
 C	GameResources-maps-ui-preview-res-Silence_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Silence_new_summer.jpg	444472	47953e2d0265772d6af05bdd115aaa16	
 C	GameResources-maps-ui-preview-res-Silence_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Silence_new_winter.jpg	380056	f88f9ba29faf7f45a83a1f33ee334851	
 C	GameResources-maps-ui-preview-res-Silence_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Silence_old_summer.jpg	480936	5264334007716a5bda45ae4337ca705a	
+C	GameResources-maps-ui-preview-res-Silence_old_winter.png	Resources/GameResources/maps/ui/preview/res/Silence_old_winter.png	6376	246c14b54287e8c16e6cd35cca228058	
 C	GameResources-maps-ui-preview-res-Silent_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Silent_new_summer.jpg	515764	3449bbe34eecd4a524dc1ea6b3bd9331	
 C	GameResources-maps-ui-preview-res-Skirmish_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Skirmish_new_summer.jpg	405356	843da2e261eca74441ca651dfb8e0f58	
 C	GameResources-maps-ui-preview-res-Skylark1100_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Skylark1100_new_summer.jpg	371024	652c38c793d41a1c15433853238a8949	
@@ -2578,6 +2607,8 @@ C	GameResources-maps-ui-preview-res-Skylark_old_winter.jpg	Resources/GameResourc
 C	GameResources-maps-ui-preview-res-Skylarks_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Skylarks_new_summer.jpg	526220	3a622fe17ecc5fa3c112642dfa04d475	
 C	GameResources-maps-ui-preview-res-Skyscrapers_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Skyscrapers_new_summer.jpg	409040	74eae041154949f971b486dba9d0ae7e	
 C	GameResources-maps-ui-preview-res-Slaughter_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Slaughter_new_summer.jpg	484124	9f4fd6fcbc1f983c90633f624eaf8ec1	
+C	GameResources-maps-ui-preview-res-Snowarena_new_summer.png	Resources/GameResources/maps/ui/preview/res/Snowarena_new_summer.png	7388	0b81dd1cd7ff1ee7fbff1bcf2c450742	
+C	GameResources-maps-ui-preview-res-Snowbattle_new_summer.png	Resources/GameResources/maps/ui/preview/res/Snowbattle_new_summer.png	7884	dfb26666bdca0c29ee4700a8276cbf1c	
 C	GameResources-maps-ui-preview-res-Solikamsk1100_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Solikamsk1100_new_summer.jpg	354196	dd99885ce7b9994f2a069a1d50c46ac7	
 C	GameResources-maps-ui-preview-res-SolikamskMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/SolikamskMm_new_summer.png	475104	ccde96854a884a687246e3f39585fad2	
 C	GameResources-maps-ui-preview-res-SolikamskMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/SolikamskMm_new_winter.png	354320	71f36cffc128d08a06342756e82b1245	
@@ -3553,7 +3584,7 @@ C	Maps-Zone_new_summer.xml	Resources/Maps/Zone_new_summer.xml	476592	76e9fdb9298
 C	Maps-Zone_new_winter.xml	Resources/Maps/Zone_new_winter.xml	485808	9569c7b5b62f7b5374b9031ab67d365d	
 C	Maps-Zone_old_summer.xml	Resources/Maps/Zone_old_summer.xml	482288	c81177416788d142b8aab27d853420e4	
 C	Maps-________.xml	Resources/Maps/Подземка.xml	1032656	b022be780df0865e5beeec7712ec6c4b	
-C	Maps-catalog.json	Resources/Maps/catalog.json	1073400	029d3c47e2af2a512ec3eefd1ab3f317	
+C	Maps-catalog.json	Resources/Maps/catalog.json	1074488	c0a5d777c240ef3382bf6f2e0f851f9a	
 C	thumbs-GameResources-battle	Resources/#thumbs/GameResources/battle	3680	c5c85f74f4c440a681147ce53e55f477	
 C	thumbs-GameResources-garage	Resources/#thumbs/GameResources/garage	972280	55b102d47161661d62f326d04cada451	
 C	thumbs-GameResources-garage-colormap	Resources/#thumbs/GameResources/garage/colormap	21067544	875992c1db19400106e17163c5f2a76b	
