@@ -46760,6 +46760,1574 @@
    "theme": null,
    "preview": true,
    "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpPool_new_summer",
+   "file": "Maps/SocMpPool_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_pool.max",
+   "base": "SocMpPool",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Бассейн (ТЧ)",
+    "en": "Pool (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpPool/SocMpPool.scn",
+   "static_triangles": 63245,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocEscape_new_summer",
+   "file": "Maps/SocEscape_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l01_escape.max",
+   "base": "SocEscape",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Кордон (ТЧ)",
+    "en": "Cordon (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocEscape/SocEscape.scn",
+   "static_triangles": 123271,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocGarbage_new_summer",
+   "file": "Maps/SocGarbage_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l02_garbage.max",
+   "base": "SocGarbage",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Свалка (ТЧ)",
+    "en": "Garbage (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocGarbage/SocGarbage.scn",
+   "static_triangles": 337425,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocAgroUnderground_new_summer",
+   "file": "Maps/SocAgroUnderground_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l03u_agr_underground.max",
+   "base": "SocAgroUnderground",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Подземелья Агропрома (ТЧ)",
+    "en": "Agroprom Underground (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 7,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocAgroUnderground/SocAgroUnderground.scn",
+   "static_triangles": 593910,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocDarkValley_new_summer",
+   "file": "Maps/SocDarkValley_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l04_darkvalley.max",
+   "base": "SocDarkValley",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Тёмная долина (ТЧ)",
+    "en": "Dark Valley (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocDarkValley/SocDarkValley.scn",
+   "static_triangles": 416827,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocLabX18_new_summer",
+   "file": "Maps/SocLabX18_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l04u_labx18.max",
+   "base": "SocLabX18",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Лаборатория X-18 (ТЧ)",
+    "en": "Lab X-18 (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 10,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocLabX18/SocLabX18.scn",
+   "static_triangles": 546636,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocBar_new_summer",
+   "file": "Maps/SocBar_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l05_bar.max",
+   "base": "SocBar",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Бар (ТЧ)",
+    "en": "Bar (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocBar/SocBar.scn",
+   "static_triangles": 647814,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocRostok_new_summer",
+   "file": "Maps/SocRostok_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l06_rostok.max",
+   "base": "SocRostok",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Дикая территория (ТЧ)",
+    "en": "Wild Territory (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocRostok/SocRostok.scn",
+   "static_triangles": 458342,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMilitary_new_summer",
+   "file": "Maps/SocMilitary_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l07_military.max",
+   "base": "SocMilitary",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Армейские склады (ТЧ)",
+    "en": "Army Warehouses (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMilitary/SocMilitary.scn",
+   "static_triangles": 513920,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocYantar_new_summer",
+   "file": "Maps/SocYantar_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l08_yantar.max",
+   "base": "SocYantar",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Янтарь (ТЧ)",
+    "en": "Yantar (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocYantar/SocYantar.scn",
+   "static_triangles": 458197,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocLabX16_new_summer",
+   "file": "Maps/SocLabX16_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l08u_brainlab.max",
+   "base": "SocLabX16",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Лаборатория X-16 (ТЧ)",
+    "en": "Lab X-16 (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 15,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocLabX16/SocLabX16.scn",
+   "static_triangles": 385448,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocRadar_new_summer",
+   "file": "Maps/SocRadar_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l10_radar.max",
+   "base": "SocRadar",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Радар (ТЧ)",
+    "en": "Radar (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocRadar/SocRadar.scn",
+   "static_triangles": 370233,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocLabX10_new_summer",
+   "file": "Maps/SocLabX10_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l10u_bunker.max",
+   "base": "SocLabX10",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Лаборатория X-10 (ТЧ)",
+    "en": "Lab X-10 (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocLabX10/SocLabX10.scn",
+   "static_triangles": 831008,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocCnpp2_new_summer",
+   "file": "Maps/SocCnpp2_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l12_stancia_2.max",
+   "base": "SocCnpp2",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "ЧАЭС-2 (ТЧ)",
+    "en": "CNPP-2 (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocCnpp2/SocCnpp2.scn",
+   "static_triangles": 359305,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMonolithControl_new_summer",
+   "file": "Maps/SocMonolithControl_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l12u_control_monolith.max",
+   "base": "SocMonolithControl",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Управление Монолитом (ТЧ)",
+    "en": "Monolith Control (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 8,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMonolithControl/SocMonolithControl.scn",
+   "static_triangles": 401572,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocSarcophagus_new_summer",
+   "file": "Maps/SocSarcophagus_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/l12u_sarcofag.max",
+   "base": "SocSarcophagus",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Саркофаг (ТЧ)",
+    "en": "Sarcophagus (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocSarcophagus/SocSarcophagus.scn",
+   "static_triangles": 786230,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpAgroprom_new_summer",
+   "file": "Maps/SocMpAgroprom_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_agroprom.max",
+   "base": "SocMpAgroprom",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Агропром (сетевая) (ТЧ)",
+    "en": "Agroprom (MP) (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpAgroprom/SocMpAgroprom.scn",
+   "static_triangles": 205180,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpAtp_new_summer",
+   "file": "Maps/SocMpAtp_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_atp.max",
+   "base": "SocMpAtp",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "АТП (ТЧ)",
+    "en": "ATP (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpAtp/SocMpAtp.scn",
+   "static_triangles": 195061,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpBath_new_summer",
+   "file": "Maps/SocMpBath_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_bath.max",
+   "base": "SocMpBath",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Баня (ТЧ)",
+    "en": "Bath (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpBath/SocMpBath.scn",
+   "static_triangles": 266031,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpDarkValley_new_summer",
+   "file": "Maps/SocMpDarkValley_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_darkvalley.max",
+   "base": "SocMpDarkValley",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Тёмная долина (сетевая) (ТЧ)",
+    "en": "Dark Valley (MP) (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpDarkValley/SocMpDarkValley.scn",
+   "static_triangles": 162589,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpFactory_new_summer",
+   "file": "Maps/SocMpFactory_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_factory.max",
+   "base": "SocMpFactory",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Завод (ТЧ)",
+    "en": "Factory (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpFactory/SocMpFactory.scn",
+   "static_triangles": 267078,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpLostVillage_new_summer",
+   "file": "Maps/SocMpLostVillage_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_lost_village.max",
+   "base": "SocMpLostVillage",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Заброшенная деревня (ТЧ)",
+    "en": "Lost Village (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpLostVillage/SocMpLostVillage.scn",
+   "static_triangles": 279188,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpMilitary1_new_summer",
+   "file": "Maps/SocMpMilitary1_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_military_1.max",
+   "base": "SocMpMilitary1",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Военная часть (ТЧ)",
+    "en": "Army Base (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpMilitary1/SocMpMilitary1.scn",
+   "static_triangles": 334829,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpMilitary2_new_summer",
+   "file": "Maps/SocMpMilitary2_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_military_2.max",
+   "base": "SocMpMilitary2",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Военная часть 2 (ТЧ)",
+    "en": "Army Base 2 (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpMilitary2/SocMpMilitary2.scn",
+   "static_triangles": 220026,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpRailroad_new_summer",
+   "file": "Maps/SocMpRailroad_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_railroad.max",
+   "base": "SocMpRailroad",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Депо (ТЧ)",
+    "en": "Railroad (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpRailroad/SocMpRailroad.scn",
+   "static_triangles": 603626,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpRostok_new_summer",
+   "file": "Maps/SocMpRostok_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_rostok.max",
+   "base": "SocMpRostok",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Росток (сетевая) (ТЧ)",
+    "en": "Rostok (MP) (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpRostok/SocMpRostok.scn",
+   "static_triangles": 572753,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "SocMpWorkshop_new_summer",
+   "file": "Maps/SocMpWorkshop_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/cherno/testers_mp_workshop.max",
+   "base": "SocMpWorkshop",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Мастерская (ТЧ)",
+    "en": "Workshop (SoC)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/SocMpWorkshop/SocMpWorkshop.scn",
+   "static_triangles": 332308,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsAgroprom_new_summer",
+   "file": "Maps/CsAgroprom_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/agroprom.max",
+   "base": "CsAgroprom",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Агропром (ЧН)",
+    "en": "Agroprom (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsAgroprom/CsAgroprom.scn",
+   "static_triangles": 796807,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsAgroUnderground_new_summer",
+   "file": "Maps/CsAgroUnderground_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/agroprom_underground.max",
+   "base": "CsAgroUnderground",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Подземелья Агропрома (ЧН)",
+    "en": "Agroprom Underground (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 6,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsAgroUnderground/CsAgroUnderground.scn",
+   "static_triangles": 467143,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsDarkValley_new_summer",
+   "file": "Maps/CsDarkValley_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/darkvalley.max",
+   "base": "CsDarkValley",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Тёмная долина (ЧН)",
+    "en": "Dark Valley (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsDarkValley/CsDarkValley.scn",
+   "static_triangles": 599112,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsEscape_new_summer",
+   "file": "Maps/CsEscape_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/escape.max",
+   "base": "CsEscape",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Кордон (ЧН)",
+    "en": "Cordon (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsEscape/CsEscape.scn",
+   "static_triangles": 296443,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsGarbage_new_summer",
+   "file": "Maps/CsGarbage_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/garbage.max",
+   "base": "CsGarbage",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Свалка (ЧН)",
+    "en": "Garbage (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsGarbage/CsGarbage.scn",
+   "static_triangles": 535008,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsHospital_new_summer",
+   "file": "Maps/CsHospital_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/hospital.max",
+   "base": "CsHospital",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Госпиталь (ЧН)",
+    "en": "Hospital (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsHospital/CsHospital.scn",
+   "static_triangles": 358886,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsLimansk_new_summer",
+   "file": "Maps/CsLimansk_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/limansk.max",
+   "base": "CsLimansk",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Лиманск (ЧН)",
+    "en": "Limansk (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsLimansk/CsLimansk.scn",
+   "static_triangles": 358047,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMarsh_new_summer",
+   "file": "Maps/CsMarsh_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/marsh.max",
+   "base": "CsMarsh",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Болота (ЧН)",
+    "en": "Great Swamps (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMarsh/CsMarsh.scn",
+   "static_triangles": 175917,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsCnpp_new_summer",
+   "file": "Maps/CsCnpp_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/stancia_2.max",
+   "base": "CsCnpp",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "ЧАЭС (ЧН)",
+    "en": "CNPP (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsCnpp/CsCnpp.scn",
+   "static_triangles": 472675,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsYantar_new_summer",
+   "file": "Maps/CsYantar_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/yantar.max",
+   "base": "CsYantar",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Янтарь (ЧН)",
+    "en": "Yantar (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsYantar/CsYantar.scn",
+   "static_triangles": 431081,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpAgroprom_new_summer",
+   "file": "Maps/CsMpAgroprom_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_agroprom.max",
+   "base": "CsMpAgroprom",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Агропром (сетевая) (ЧН)",
+    "en": "Agroprom (MP) (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpAgroprom/CsMpAgroprom.scn",
+   "static_triangles": 197472,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpAtp_new_summer",
+   "file": "Maps/CsMpAtp_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_atp.max",
+   "base": "CsMpAtp",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "АТП (ЧН)",
+    "en": "ATP (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpAtp/CsMpAtp.scn",
+   "static_triangles": 168430,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpAutostation_new_summer",
+   "file": "Maps/CsMpAutostation_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_autostation.max",
+   "base": "CsMpAutostation",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Автостанция (ЧН)",
+    "en": "Bus Station (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpAutostation/CsMpAutostation.scn",
+   "static_triangles": 255802,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpBath_new_summer",
+   "file": "Maps/CsMpBath_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_bath.max",
+   "base": "CsMpBath",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Баня (ЧН)",
+    "en": "Bath (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpBath/CsMpBath.scn",
+   "static_triangles": 233331,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpDarkValley_new_summer",
+   "file": "Maps/CsMpDarkValley_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_darkvalley.max",
+   "base": "CsMpDarkValley",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Тёмная долина (сетевая) (ЧН)",
+    "en": "Dark Valley (MP) (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpDarkValley/CsMpDarkValley.scn",
+   "static_triangles": 138031,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpFactory_new_summer",
+   "file": "Maps/CsMpFactory_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_factory.max",
+   "base": "CsMpFactory",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Завод (ЧН)",
+    "en": "Factory (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpFactory/CsMpFactory.scn",
+   "static_triangles": 259490,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpFirestation_new_summer",
+   "file": "Maps/CsMpFirestation_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_firestation.max",
+   "base": "CsMpFirestation",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Пожарная часть (ЧН)",
+    "en": "Fire Station (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpFirestation/CsMpFirestation.scn",
+   "static_triangles": 125263,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpGarbage_new_summer",
+   "file": "Maps/CsMpGarbage_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_garbage.max",
+   "base": "CsMpGarbage",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Свалка (сетевая) (ЧН)",
+    "en": "Garbage (MP) (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpGarbage/CsMpGarbage.scn",
+   "static_triangles": 329503,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpLimansk_new_summer",
+   "file": "Maps/CsMpLimansk_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_limansk.max",
+   "base": "CsMpLimansk",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Лиманск (сетевая) (ЧН)",
+    "en": "Limansk (MP) (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpLimansk/CsMpLimansk.scn",
+   "static_triangles": 306433,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpLostVillage_new_summer",
+   "file": "Maps/CsMpLostVillage_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_lost_village.max",
+   "base": "CsMpLostVillage",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Заброшенная деревня (ЧН)",
+    "en": "Lost Village (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpLostVillage/CsMpLostVillage.scn",
+   "static_triangles": 256725,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpMilitary1_new_summer",
+   "file": "Maps/CsMpMilitary1_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_military_1.max",
+   "base": "CsMpMilitary1",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Военная часть (ЧН)",
+    "en": "Army Base (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpMilitary1/CsMpMilitary1.scn",
+   "static_triangles": 392315,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpMilitary2_new_summer",
+   "file": "Maps/CsMpMilitary2_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_military_2.max",
+   "base": "CsMpMilitary2",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Военная часть 2 (ЧН)",
+    "en": "Army Base 2 (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpMilitary2/CsMpMilitary2.scn",
+   "static_triangles": 197125,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpPool_new_summer",
+   "file": "Maps/CsMpPool_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_pool.max",
+   "base": "CsMpPool",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Бассейн (ЧН)",
+    "en": "Pool (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpPool/CsMpPool.scn",
+   "static_triangles": 53972,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpRailroad_new_summer",
+   "file": "Maps/CsMpRailroad_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_railroad.max",
+   "base": "CsMpRailroad",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Депо (ЧН)",
+    "en": "Railroad (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpRailroad/CsMpRailroad.scn",
+   "static_triangles": 575841,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpRepairBase_new_summer",
+   "file": "Maps/CsMpRepairBase_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_rembasa.max",
+   "base": "CsMpRepairBase",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Ремонтная база (ЧН)",
+    "en": "Repair Base (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpRepairBase/CsMpRepairBase.scn",
+   "static_triangles": 131808,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpRostok_new_summer",
+   "file": "Maps/CsMpRostok_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_rostok.max",
+   "base": "CsMpRostok",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Росток (сетевая) (ЧН)",
+    "en": "Rostok (MP) (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpRostok/CsMpRostok.scn",
+   "static_triangles": 567892,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpSportCenter_new_summer",
+   "file": "Maps/CsMpSportCenter_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_sport_center.max",
+   "base": "CsMpSportCenter",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Спорткомплекс (ЧН)",
+    "en": "Sports Center (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpSportCenter/CsMpSportCenter.scn",
+   "static_triangles": 122108,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpTrainingCamp_new_summer",
+   "file": "Maps/CsMpTrainingCamp_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_training_camp.max",
+   "base": "CsMpTrainingCamp",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Тренировочный лагерь (ЧН)",
+    "en": "Training Camp (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpTrainingCamp/CsMpTrainingCamp.scn",
+   "static_triangles": 171335,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
+  },
+  {
+   "id": "CsMpWorkshop_new_summer",
+   "file": "Maps/CsMpWorkshop_new_summer.xml",
+   "source": "static",
+   "source_path": "StaticResources/Clear Sky/mp_workshop.max",
+   "base": "CsMpWorkshop",
+   "season": "summer",
+   "version": "new",
+   "name": {
+    "ru": "Мастерская (ЧН)",
+    "en": "Workshop (CS)"
+   },
+   "props": 1,
+   "spawns": {
+    "dm": 16,
+    "red": null,
+    "blue": null
+   },
+   "anchors": true,
+   "remaster": false,
+   "static_model": "res://Resources/Battle/StaticMaps/CsMpWorkshop/CsMpWorkshop.scn",
+   "static_triangles": 308841,
+   "selectable": true,
+   "skybox": "Summer",
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
   }
  ]
 }
