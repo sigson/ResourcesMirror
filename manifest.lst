@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	4134448888
+#total	4134444712
 #chunks	3637
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
@@ -80,7 +80,7 @@ C	Battle-Landscape_new-fence	Resources/Battle/Landscape_new/fence	719208	adbf89d
 C	Battle-Landscape_new-fenceold	Resources/Battle/Landscape_new/fenceold	718936	1389c3757855d44fcd10d2533db73cd3	
 C	Battle-Landscape_new-flags	Resources/Battle/Landscape_new/flags	1045852	454727fd237b86f2168ac3ad4c3e92c9	
 C	Battle-Landscape_new-fogtown	Resources/Battle/Landscape_new/fogtown	12438668	9dda4d3da1b5dbea91468946ba208d72	
-C	Battle-Landscape_new-forestmmremaster	Resources/Battle/Landscape_new/forestmmremaster	7587880	cb8a0dfdcf674b00a818ee1bd8835dbd	
+C	Battle-Landscape_new-forestmmremaster	Resources/Battle/Landscape_new/forestmmremaster	7587160	4e29f630af74413b00fdec6590c31131	
 C	Battle-Landscape_new-fort	Resources/Battle/Landscape_new/fort	5414368	718caefbb5261c8521fc0f2688a50815	
 C	Battle-Landscape_new-fortwinter	Resources/Battle/Landscape_new/fortwinter	5349036	19df5a6d4f38db81232e72446f40b5a7	
 C	Battle-Landscape_new-functional	Resources/Battle/Landscape_new/functional	41532	c98f6c089ed5305bbab9b4b1cf60b841	
@@ -177,8 +177,8 @@ C	Battle-Landscape_new-promotionwinter	Resources/Battle/Landscape_new/promotionw
 C	Battle-Landscape_new-roadblock	Resources/Battle/Landscape_new/roadblock	357828	f11c55864f96349c9f92c3ae01c92b7e	
 C	Battle-Landscape_new-roadblockwinter	Resources/Battle/Landscape_new/roadblockwinter	358936	0be7eca859d12ae65f8bbf6e7962826c	
 C	Battle-Landscape_new-rocks	Resources/Battle/Landscape_new/rocks	7902880	12d3d336567ae670ad8556027129825e	
-C	Battle-Landscape_new-sandboxmmremaster	Resources/Battle/Landscape_new/sandboxmmremaster	6211136	d0196b5e78619f34032707a240d236cb	
-C	Battle-Landscape_new-sandboxmmremasterautumn	Resources/Battle/Landscape_new/sandboxmmremasterautumn	6227436	b2026b6e06ca798d2baef932c57d6ccf	
+C	Battle-Landscape_new-sandboxmmremaster	Resources/Battle/Landscape_new/sandboxmmremaster	6209408	97866ebccc559f40b9e5e6ff6b7ceb00	
+C	Battle-Landscape_new-sandboxmmremasterautumn	Resources/Battle/Landscape_new/sandboxmmremasterautumn	6225708	f1c0b5b18ac6a8a50c4c54402ba28dfe	
 C	Battle-Landscape_new-slopesrises	Resources/Battle/Landscape_new/slopesrises	502556	cd2482d905c5a46e9e62a9395cf6f677	
 C	Battle-Landscape_new-slopesriseswinter	Resources/Battle/Landscape_new/slopesriseswinter	3103284	7aadb7985002d5ad78e3674a4d470403	
 C	Battle-Landscape_new-smallbridge	Resources/Battle/Landscape_new/smallbridge	4077872	91c4f9dd28a85d5883adeff939aac069	
