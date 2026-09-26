@@ -46729,7 +46729,9 @@
    "static_triangles": 424749,
    "selectable": true,
    "skybox": "Summer",
-   "theme": null
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
   },
   {
    "id": "CNPP_new_summer",
@@ -46755,7 +46757,9 @@
    "static_triangles": 135161,
    "selectable": true,
    "skybox": "Summer",
-   "theme": null
+   "theme": null,
+   "preview": true,
+   "preview_source": "placeholder"
   }
  ]
 }

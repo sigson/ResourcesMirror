@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	4134436184
-#chunks	3635
+#total	4134448888
+#chunks	3637
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24139456	8ce93633d6f6dbe5b1886f1a453bcf51	
@@ -1864,6 +1864,7 @@ C	GameResources-maps-ui-preview-res-AbyssOld_new_summer.jpg	Resources/GameResour
 C	GameResources-maps-ui-preview-res-Abyss_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Abyss_new_summer.jpg	393620	64004ba62dc77d6718586169aed7759a	
 C	GameResources-maps-ui-preview-res-Abyss_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Abyss_old_summer.jpg	355988	8acb7af1e273eedaa761b508b7299eee	
 C	GameResources-maps-ui-preview-res-Abyss_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Abyss_old_winter.jpg	394292	20225029ccf4cac0034af183cde5653f	
+C	GameResources-maps-ui-preview-res-Agroprom_new_summer.png	Resources/GameResources/maps/ui/preview/res/Agroprom_new_summer.png	6972	5072b41e031098de467681fa14c44587	
 C	GameResources-maps-ui-preview-res-AleksandrovskMm_new_summer.png	Resources/GameResources/maps/ui/preview/res/AleksandrovskMm_new_summer.png	395144	e9e019beefa332447cac4e6b3be63a25	
 C	GameResources-maps-ui-preview-res-AleksandrovskMm_new_winter.png	Resources/GameResources/maps/ui/preview/res/AleksandrovskMm_new_winter.png	394472	dc4d4e7b2d373e5a168382cd67bddfe8	
 C	GameResources-maps-ui-preview-res-AleksandrovskMt_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/AleksandrovskMt_new_summer.jpg	524488	c18e784fb1bfd3c9b965eea8744cc8a6	
@@ -1972,6 +1973,7 @@ C	GameResources-maps-ui-preview-res-Bridges_new_winter.jpg	Resources/GameResourc
 C	GameResources-maps-ui-preview-res-Bridges_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Bridges_old_summer.jpg	504680	0d953b417ff928a3ffbe0bcffe21e1ba	
 C	GameResources-maps-ui-preview-res-Bridges_old_winter.jpg	Resources/GameResources/maps/ui/preview/res/Bridges_old_winter.jpg	516520	cff8dd515756fc54f7b7c4d260c77878	
 C	GameResources-maps-ui-preview-res-BunkerVektorTv_new_summer.png	Resources/GameResources/maps/ui/preview/res/BunkerVektorTv_new_summer.png	193316	52406b07c280d73aa80c717a4f1bf470	
+C	GameResources-maps-ui-preview-res-CNPP_new_summer.png	Resources/GameResources/maps/ui/preview/res/CNPP_new_summer.png	5620	bd2cd51a5674d3754e444c916785c119	
 C	GameResources-maps-ui-preview-res-CampOld_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/CampOld_new_summer.jpg	298632	c1cabdd41395f64df725a781012850a3	
 C	GameResources-maps-ui-preview-res-CampOld_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/CampOld_new_winter.jpg	368840	73151170c97457306da03d66a49317a4	
 C	GameResources-maps-ui-preview-res-CampPro_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/CampPro_new_winter.jpg	356392	38150e151c97183bda0a29199428c94f	
@@ -3614,7 +3616,7 @@ C	Maps-Zone_new_summer.xml	Resources/Maps/Zone_new_summer.xml	476592	76e9fdb9298
 C	Maps-Zone_new_winter.xml	Resources/Maps/Zone_new_winter.xml	485808	9569c7b5b62f7b5374b9031ab67d365d	
 C	Maps-Zone_old_summer.xml	Resources/Maps/Zone_old_summer.xml	482288	c81177416788d142b8aab27d853420e4	
 C	Maps-________.xml	Resources/Maps/Подземка.xml	1032656	b022be780df0865e5beeec7712ec6c4b	
-C	Maps-catalog.json	Resources/Maps/catalog.json	1075688	c314be6c7d4e2fb95401261ffef048dd	Resources/Battle/StaticMaps/Agroprom;Resources/Battle/StaticMaps/CNPP;Resources/Battle/StaticMaps/Pripyat
+C	Maps-catalog.json	Resources/Maps/catalog.json	1075800	27edb116619674f7ec5f8bb5786ba087	Resources/Battle/StaticMaps/Agroprom;Resources/Battle/StaticMaps/CNPP;Resources/Battle/StaticMaps/Pripyat
 C	thumbs-GameResources-battle	Resources/#thumbs/GameResources/battle	3680	c5c85f74f4c440a681147ce53e55f477	
 C	thumbs-GameResources-garage	Resources/#thumbs/GameResources/garage	972280	55b102d47161661d62f326d04cada451	
 C	thumbs-GameResources-garage-colormap	Resources/#thumbs/GameResources/garage/colormap	21067544	875992c1db19400106e17163c5f2a76b	
