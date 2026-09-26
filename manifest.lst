@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	4134444712
-#chunks	3637
+#total	4135253460
+#chunks	3638
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24139456	8ce93633d6f6dbe5b1886f1a453bcf51	
@@ -327,17 +327,18 @@ C	Battle-Landscape_old-wafflefence	Resources/Battle/Landscape_old/wafflefence	32
 C	Battle-Landscape_old-wafflefencewinter	Resources/Battle/Landscape_old/wafflefencewinter	355936	dc7df13e80f5574d0d17da70525478ac	
 C	Battle-Landscape_old-yonje	Resources/Battle/Landscape_old/yonje	13219828	367ba9ef7dd4cf5b4576fa8e9f5cd270	
 C	Battle-Landscape_old-zamin	Resources/Battle/Landscape_old/zamin	13793368	c9df0e0e10692205a48e62cc4b6e1785	
-C	Battle-StaticMaps-Agroprom-_files	Resources/Battle/StaticMaps/Agroprom	99488	663f9663c0cc9b85aba8290cc0ec9161	Resources/Battle/StaticMaps/Agroprom/meshes;Resources/Battle/StaticMaps/Agroprom/textures
-C	Battle-StaticMaps-Agroprom-meshes	Resources/Battle/StaticMaps/Agroprom/meshes	19067444	ee6d6d722b8f26a3c8d5d9e9f836ba42	
-C	Battle-StaticMaps-Agroprom-textures	Resources/Battle/StaticMaps/Agroprom/textures	24974164	c24e257946c90551969380da172defbf	
-C	Battle-StaticMaps-Agroprom-textures-p2	Resources/Battle/StaticMaps/Agroprom/textures	17979504	3cfeec8086f5d00df6073a61293648b0	
-C	Battle-StaticMaps-CNPP-_files	Resources/Battle/StaticMaps/CNPP	62104	ac6fe8105744fb6eaa0835cab5d02149	Resources/Battle/StaticMaps/CNPP/meshes;Resources/Battle/StaticMaps/CNPP/textures
-C	Battle-StaticMaps-CNPP-meshes	Resources/Battle/StaticMaps/CNPP/meshes	19311108	73cde7ca23e185c15461945f53614a37	
-C	Battle-StaticMaps-CNPP-textures	Resources/Battle/StaticMaps/CNPP/textures	25005128	b89a0032be076bb96723c7d758d408e8	
-C	Battle-StaticMaps-CNPP-textures-p2	Resources/Battle/StaticMaps/CNPP/textures	3216692	b726dbac78a05272e1e07ed89f916f6a	
-C	Battle-StaticMaps-Pripyat-_files	Resources/Battle/StaticMaps/Pripyat	108908	bb0185999af3dfaae14b3b9d02e92d85	Resources/Battle/StaticMaps/Pripyat/meshes;Resources/Battle/StaticMaps/Pripyat/textures/act;Resources/Battle/StaticMaps/Pripyat/textures/crete;Resources/Battle/StaticMaps/Pripyat/textures/door;Resources/Battle/StaticMaps/Pripyat/textures/fbr;Resources/Battle/StaticMaps/Pripyat/textures/fx;Resources/Battle/StaticMaps/Pripyat/textures/glas;Resources/Battle/StaticMaps/Pripyat/textures/grnd;Resources/Battle/StaticMaps/Pripyat/textures/item;Resources/Battle/StaticMaps/Pripyat/textures/mtl;Resources/Battle/StaticMaps/Pripyat/textures/prop;Resources/Battle/StaticMaps/Pripyat/textures/sign;Resources/Battle/StaticMaps/Pripyat/textures/ston;Resources/Battle/StaticMaps/Pripyat/textures/terrain;Resources/Battle/StaticMaps/Pripyat/textures/trees;Resources/Battle/StaticMaps/Pripyat/textures/veh;Resources/Battle/StaticMaps/Pripyat/textures/wind;Resources/Battle/StaticMaps/Pripyat/textures/wood
+C	Battle-StaticMaps-Agroprom-_files	Resources/Battle/StaticMaps/Agroprom	100640	b27edeafc4a8e5c332c0b4c5763fa3cf	Resources/Battle/StaticMaps/Agroprom/meshes;Resources/Battle/StaticMaps/Agroprom/textures
+C	Battle-StaticMaps-Agroprom-meshes	Resources/Battle/StaticMaps/Agroprom/meshes	19067476	429f3ecfade77742b4e707eedd607485	
+C	Battle-StaticMaps-Agroprom-textures	Resources/Battle/StaticMaps/Agroprom/textures	24543148	7ea7ca09d83302d09cc5350b374bce09	
+C	Battle-StaticMaps-Agroprom-textures-p2	Resources/Battle/StaticMaps/Agroprom/textures	18678888	ebde918fba574aff498417990374c946	
+C	Battle-StaticMaps-CNPP-_files	Resources/Battle/StaticMaps/CNPP	63352	6423c40ff760e8ce517dc8d333fad467	Resources/Battle/StaticMaps/CNPP/meshes;Resources/Battle/StaticMaps/CNPP/textures
+C	Battle-StaticMaps-CNPP-meshes	Resources/Battle/StaticMaps/CNPP/meshes	19311156	b5899a5c2f89673b81a1b3a5596845d9	
+C	Battle-StaticMaps-CNPP-textures	Resources/Battle/StaticMaps/CNPP/textures	24574112	54d2429e5f8463087eb96cab0b7a7972	
+C	Battle-StaticMaps-CNPP-textures-p2	Resources/Battle/StaticMaps/CNPP/textures	3916056	6ba091a333f6c539e670fa4554bea525	
+C	Battle-StaticMaps-Pripyat-_files	Resources/Battle/StaticMaps/Pripyat	110140	b7d1a368fce1075f53ff2a08d95b67ad	Resources/Battle/StaticMaps/Pripyat/meshes;Resources/Battle/StaticMaps/Pripyat/textures;Resources/Battle/StaticMaps/Pripyat/textures/act;Resources/Battle/StaticMaps/Pripyat/textures/crete;Resources/Battle/StaticMaps/Pripyat/textures/door;Resources/Battle/StaticMaps/Pripyat/textures/fbr;Resources/Battle/StaticMaps/Pripyat/textures/fx;Resources/Battle/StaticMaps/Pripyat/textures/glas;Resources/Battle/StaticMaps/Pripyat/textures/grnd;Resources/Battle/StaticMaps/Pripyat/textures/item;Resources/Battle/StaticMaps/Pripyat/textures/mtl;Resources/Battle/StaticMaps/Pripyat/textures/prop;Resources/Battle/StaticMaps/Pripyat/textures/sign;Resources/Battle/StaticMaps/Pripyat/textures/ston;Resources/Battle/StaticMaps/Pripyat/textures/terrain;Resources/Battle/StaticMaps/Pripyat/textures/trees;Resources/Battle/StaticMaps/Pripyat/textures/veh;Resources/Battle/StaticMaps/Pripyat/textures/wind;Resources/Battle/StaticMaps/Pripyat/textures/wood
 C	Battle-StaticMaps-Pripyat-meshes	Resources/Battle/StaticMaps/Pripyat/meshes	24963672	77b2f4b52f3f57847409f1843c919808	
-C	Battle-StaticMaps-Pripyat-meshes-p2	Resources/Battle/StaticMaps/Pripyat/meshes	8293172	393f58569505e04ef761db119b5cf48c	
+C	Battle-StaticMaps-Pripyat-meshes-p2	Resources/Battle/StaticMaps/Pripyat/meshes	8292932	dc80b5dbd24e2ead21e769a4ed1bf050	
+C	Battle-StaticMaps-Pripyat-textures-_files	Resources/Battle/StaticMaps/Pripyat/textures	268560	1e4f60c1677839d00e215d93f9e43db9	
 C	Battle-StaticMaps-Pripyat-textures-act	Resources/Battle/StaticMaps/Pripyat/textures/act	1247056	127bdc757b969f66ce3426f0a45508e3	
 C	Battle-StaticMaps-Pripyat-textures-crete	Resources/Battle/StaticMaps/Pripyat/textures/crete	8635732	51dce390d59a1ff45d1a88cc8165609f	
 C	Battle-StaticMaps-Pripyat-textures-door	Resources/Battle/StaticMaps/Pripyat/textures/door	1139564	16c0d926c2ac08efbef5c42a09e398d2	
