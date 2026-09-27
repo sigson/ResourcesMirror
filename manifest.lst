@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5635305888
+#total	5635305904
 #chunks	3894
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
@@ -171,9 +171,9 @@ C	Battle-Landscape_new-passage1	Resources/Battle/Landscape_new/passage1	2338612	
 C	Battle-Landscape_new-passageold	Resources/Battle/Landscape_new/passageold	2362884	d2c0b8195667588fa0fdf64d382aa2d6	
 C	Battle-Landscape_new-plants	Resources/Battle/Landscape_new/plants	228204	34d8ba8fa0c3c93726f61d74b5f11414	
 C	Battle-Landscape_new-plantswinter	Resources/Battle/Landscape_new/plantswinter	195064	c30624667453c00581aa32270b7174e1	
-C	Battle-Landscape_new-promotion	Resources/Battle/Landscape_new/promotion	124048	b385dc8c6e72fa4527dfdc282efd23b7	
+C	Battle-Landscape_new-promotion	Resources/Battle/Landscape_new/promotion	124048	94df124c5aea28fd07c7734a5f504bbe	
 C	Battle-Landscape_new-promotiontest	Resources/Battle/Landscape_new/promotiontest	1372760	070bddce774480c27a6295b1bc44922f	
-C	Battle-Landscape_new-promotionwinter	Resources/Battle/Landscape_new/promotionwinter	128868	e5e1145e5e3936663f8b1fb7602994f9	
+C	Battle-Landscape_new-promotionwinter	Resources/Battle/Landscape_new/promotionwinter	128884	648fa428060d8dedfe4eba3852a9fd08	
 C	Battle-Landscape_new-roadblock	Resources/Battle/Landscape_new/roadblock	358500	9fb1f858b6b10d966709183b0787eff2	
 C	Battle-Landscape_new-roadblockwinter	Resources/Battle/Landscape_new/roadblockwinter	359592	c8f0e5f8b8ba83e46e0c43e9a054866e	
 C	Battle-Landscape_new-rocks	Resources/Battle/Landscape_new/rocks	7906272	11f4febef8e25219df252c90c4849b51	
