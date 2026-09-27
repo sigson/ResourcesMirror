@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5633386112
-#chunks	3887
+#total	5634960160
+#chunks	3894
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24139456	8ce93633d6f6dbe5b1886f1a453bcf51	
@@ -495,9 +495,16 @@ C	Battle-StaticMaps-_Soc-textures-wood	Resources/Battle/StaticMaps/_Soc/textures
 C	Battle-StaticMaps-_Soc-textures-wpn	Resources/Battle/StaticMaps/_Soc/textures/wpn	1398632	24f7f8a4a3e5feebcbf6a3688e3701f3	
 C	GameResources-battle	Resources/GameResources/battle	13402576	7f7a25b04e94aa009bb1fd7b15a742be	
 C	GameResources-battle-bonus	Resources/GameResources/battle/bonus	8660	14d5455fa405951ad1d1e9a0365d3329	
-C	GameResources-battle-bonusskin	Resources/GameResources/battle/bonusskin	24861312	e5d1d20b28d47e90c02b5c94e43c6686	
+C	GameResources-battle-bonusskin-armor	Resources/GameResources/battle/bonusskin/armor	759908	5758e3fd98c510416af0fd045e2b6990	
+C	GameResources-battle-bonusskin-bounty	Resources/GameResources/battle/bonusskin/bounty	7348256	67f3858b0109db824180f881a3dd0477	
+C	GameResources-battle-bonusskin-common	Resources/GameResources/battle/bonusskin/common	8228436	ad51e2007f47767561c78ad437f1010b	
+C	GameResources-battle-bonusskin-damage	Resources/GameResources/battle/bonusskin/damage	1204056	6585b8726d9c560b0473aa352b2f60ea	
+C	GameResources-battle-bonusskin-gold	Resources/GameResources/battle/bonusskin/gold	6502916	0720a62725ad0909e626e5d1210098b5	
+C	GameResources-battle-bonusskin-repair	Resources/GameResources/battle/bonusskin/repair	981992	d3057e027370d7713e2cd7e9a278349b	
+C	GameResources-battle-bonusskin-speed	Resources/GameResources/battle/bonusskin/speed	1104100	883889403da9fb3b2590f644e151b8c5	
+C	GameResources-battle-bonusskin-supergold	Resources/GameResources/battle/bonusskin/supergold	378320	2bca0c641af869bfcf0f13b7f92d8e7c	
 C	GameResources-battle-dropmark	Resources/GameResources/battle/dropmark	1429820	55a7e4cafba93ddb4f4e27be6f0990a8	
-C	GameResources-battle-goal	Resources/GameResources/battle/goal	2815692	d652522c16c2002ffff296cf7f4829b8	
+C	GameResources-battle-goal	Resources/GameResources/battle/goal	2743068	7d91fba40892a4b3043464bf27caed51	
 C	GameResources-battle-map	Resources/GameResources/battle/map	1110996	4e4fd6788209fcd8461c747b1e45bd73	
 C	GameResources-battle-sound	Resources/GameResources/battle/sound	2105976	95dfad311ce7bfacee0b97ae91819252	
 C	GameResources-garage-barriers	Resources/GameResources/garage/barriers	89360	ef39a6e260af7c9b665fb15184d6e7b9	
