@@ -34012,7 +34012,7 @@
    "theme": null,
    "preview_source": "placeholder",
    "static_model": "res://Resources/Battle/StaticMaps/Pripyat/Pripyat.scn",
-   "static_triangles": 554857
+   "static_triangles": 555158
   },
   {
    "file": "Maps/Prospect_new_summer.xml",
@@ -46754,7 +46754,7 @@
    "anchors": true,
    "remaster": false,
    "static_model": "res://Resources/Battle/StaticMaps/CNPP/CNPP.scn",
-   "static_triangles": 135161,
+   "static_triangles": 135174,
    "selectable": true,
    "skybox": "Summer",
    "theme": null,
