@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5635305920
+#total	5635373376
 #chunks	3894
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
@@ -1892,7 +1892,7 @@ C	GameResources-garage-weapon-striker-base	Resources/GameResources/garage/weapon
 C	GameResources-garage-weapon-striker-shoteffect	Resources/GameResources/garage/weapon/striker/shoteffect	25460	2f3f83c922c2fdab7388e692a778ef95	
 C	GameResources-garage-weapon-striker-shotskin-blue	Resources/GameResources/garage/weapon/striker/shotskin/blue	1251756	b64df78b7fff139ae8fe8bc055b3a813	
 C	GameResources-garage-weapon-striker-shotskin-crimson	Resources/GameResources/garage/weapon/striker/shotskin/crimson	1057228	cc51b6d503265724438a31bf385d9094	
-C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1289568	101ae4b625ec9e74f836d9ab85c6711c	
+C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1342208	890e0b7cbef77844f30851692bc555a9	
 C	GameResources-garage-weapon-striker-shotskin-toxic	Resources/GameResources/garage/weapon/striker/shotskin/toxic	1289084	132b540b633bf5d861844470f70e698b	
 C	GameResources-garage-weapon-striker-shotskin-violet	Resources/GameResources/garage/weapon/striker/shotskin/violet	1217492	db027bde5d616c64b2918a97f355e64b	
 C	GameResources-garage-weapon-terminator	Resources/GameResources/garage/weapon/terminator	69248	e91e73db00d369d5f92c06dd3162437f	
@@ -1903,7 +1903,7 @@ C	GameResources-garage-weapon-thunder-2	Resources/GameResources/garage/weapon/th
 C	GameResources-garage-weapon-thunder-3	Resources/GameResources/garage/weapon/thunder/3	1683212	2471b1d8e089b3d2f4413914fdd8c2d2	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
 C	GameResources-garage-weapon-thunder-_files	Resources/GameResources/garage/weapon/thunder	73120	448aa65ee8f563dc1e253b225f152be8	
 C	GameResources-garage-weapon-thunder-base	Resources/GameResources/garage/weapon/thunder/base	2524	f32745c9487c8e114d34e90307813272	Resources/GameResources/garage/weapon/thunder/1
-C	GameResources-garage-weapon-thunder-shotskin	Resources/GameResources/garage/weapon/thunder/shotskin	943724	0e215e4443dbda9117f6652c8ecdf6de	
+C	GameResources-garage-weapon-thunder-shotskin	Resources/GameResources/garage/weapon/thunder/shotskin	958540	661329dd73f6923d9577a30e78732beb	
 C	GameResources-garage-weapon-tomato_gun	Resources/GameResources/garage/weapon/tomato_gun	88800	e96c1ce05fd78c86e1d0f6c7370f98bd	
 C	GameResources-garage-weapon-tsunami	Resources/GameResources/garage/weapon/tsunami	1933760	e49048967ed374f760dfb6f982a39844	
 C	GameResources-garage-weapon-twins-0	Resources/GameResources/garage/weapon/twins/0	1253828	82f33f066541925d1e0163579b065593	
