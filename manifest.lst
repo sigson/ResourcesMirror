@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5635271824
+#total	5635324464
 #chunks	3894
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
@@ -1803,7 +1803,7 @@ C	GameResources-garage-weapon-freeze-1	Resources/GameResources/garage/weapon/fre
 C	GameResources-garage-weapon-freeze-2	Resources/GameResources/garage/weapon/freeze/2	2427720	9fefe3dcf71753dc4186bf1fbde71638	
 C	GameResources-garage-weapon-freeze-3	Resources/GameResources/garage/weapon/freeze/3	2185224	4669a1bad0df8521e90f90ee17e0c54f	
 C	GameResources-garage-weapon-freeze-_files	Resources/GameResources/garage/weapon/freeze	545752	5f92593ed427e6978b12f960d52f17dc	
-C	GameResources-garage-weapon-freeze-base	Resources/GameResources/garage/weapon/freeze/base	7240	e374c8a15ccf6485abfb7bb85e99ed97	Resources/GameResources/garage/weapon/freeze/0
+C	GameResources-garage-weapon-freeze-base	Resources/GameResources/garage/weapon/freeze/base	7240	66886d57eb7fc918fe8a9c501f443728	Resources/GameResources/garage/weapon/freeze/0
 C	GameResources-garage-weapon-freeze-shoteffect	Resources/GameResources/garage/weapon/freeze/shoteffect	27804	3de9e9dfcd8d32b31e4f58a9fed99ca1	
 C	GameResources-garage-weapon-freeze-shotskin-cold	Resources/GameResources/garage/weapon/freeze/shotskin/cold	1008324	87e5e2859eb9440692add4627ce47cf0	
 C	GameResources-garage-weapon-freeze-shotskin-darkmoon	Resources/GameResources/garage/weapon/freeze/shotskin/darkmoon	633340	84c6f158d1d28d5d8309a82f71e06e0d	
@@ -1892,7 +1892,7 @@ C	GameResources-garage-weapon-striker-base	Resources/GameResources/garage/weapon
 C	GameResources-garage-weapon-striker-shoteffect	Resources/GameResources/garage/weapon/striker/shoteffect	25460	2f3f83c922c2fdab7388e692a778ef95	
 C	GameResources-garage-weapon-striker-shotskin-blue	Resources/GameResources/garage/weapon/striker/shotskin/blue	1251756	b64df78b7fff139ae8fe8bc055b3a813	
 C	GameResources-garage-weapon-striker-shotskin-crimson	Resources/GameResources/garage/weapon/striker/shotskin/crimson	1057228	cc51b6d503265724438a31bf385d9094	
-C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1289568	101ae4b625ec9e74f836d9ab85c6711c	
+C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1342208	890e0b7cbef77844f30851692bc555a9	
 C	GameResources-garage-weapon-striker-shotskin-toxic	Resources/GameResources/garage/weapon/striker/shotskin/toxic	1289084	132b540b633bf5d861844470f70e698b	
 C	GameResources-garage-weapon-striker-shotskin-violet	Resources/GameResources/garage/weapon/striker/shotskin/violet	1217492	db027bde5d616c64b2918a97f355e64b	
 C	GameResources-garage-weapon-terminator	Resources/GameResources/garage/weapon/terminator	69248	e91e73db00d369d5f92c06dd3162437f	
