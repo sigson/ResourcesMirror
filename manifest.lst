@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5635373376
+#total	5635271824
 #chunks	3894
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
@@ -1779,7 +1779,7 @@ C	GameResources-garage-turretmodules-vulcan	Resources/GameResources/garage/turre
 C	GameResources-garage-ui	Resources/GameResources/garage/ui	791724	273477809c7822daddb470027e00504b	
 C	GameResources-garage-weapon-_files	Resources/GameResources/garage/weapon	96780	98b620a28c08fb86b2a4e146fd24b336	
 C	GameResources-garage-weapon-bonk	Resources/GameResources/garage/weapon/bonk	231660	d69a1b6543aab6af027d108353d8187f	
-C	GameResources-garage-weapon-flamethrower-0	Resources/GameResources/garage/weapon/flamethrower/0	318600	b5301aa1337c305190bf51bc531240aa	
+C	GameResources-garage-weapon-flamethrower-0	Resources/GameResources/garage/weapon/flamethrower/0	317800	1d65147cbf85a2e9e0506ee59ba5531e	
 C	GameResources-garage-weapon-flamethrower-1	Resources/GameResources/garage/weapon/flamethrower/1	244660	05ff8651dca5b822abd5d2a036aca4b6	
 C	GameResources-garage-weapon-flamethrower-2	Resources/GameResources/garage/weapon/flamethrower/2	248212	f899860cc10a2e99022f8d6df2d748ff	
 C	GameResources-garage-weapon-flamethrower-3	Resources/GameResources/garage/weapon/flamethrower/3	258004	5211837c2329898abd5f5e12e1f6a827	
@@ -1803,7 +1803,7 @@ C	GameResources-garage-weapon-freeze-1	Resources/GameResources/garage/weapon/fre
 C	GameResources-garage-weapon-freeze-2	Resources/GameResources/garage/weapon/freeze/2	2427720	9fefe3dcf71753dc4186bf1fbde71638	
 C	GameResources-garage-weapon-freeze-3	Resources/GameResources/garage/weapon/freeze/3	2185224	4669a1bad0df8521e90f90ee17e0c54f	
 C	GameResources-garage-weapon-freeze-_files	Resources/GameResources/garage/weapon/freeze	545752	5f92593ed427e6978b12f960d52f17dc	
-C	GameResources-garage-weapon-freeze-base	Resources/GameResources/garage/weapon/freeze/base	7240	66886d57eb7fc918fe8a9c501f443728	Resources/GameResources/garage/weapon/freeze/0
+C	GameResources-garage-weapon-freeze-base	Resources/GameResources/garage/weapon/freeze/base	7240	e374c8a15ccf6485abfb7bb85e99ed97	Resources/GameResources/garage/weapon/freeze/0
 C	GameResources-garage-weapon-freeze-shoteffect	Resources/GameResources/garage/weapon/freeze/shoteffect	27804	3de9e9dfcd8d32b31e4f58a9fed99ca1	
 C	GameResources-garage-weapon-freeze-shotskin-cold	Resources/GameResources/garage/weapon/freeze/shotskin/cold	1008324	87e5e2859eb9440692add4627ce47cf0	
 C	GameResources-garage-weapon-freeze-shotskin-darkmoon	Resources/GameResources/garage/weapon/freeze/shotskin/darkmoon	633340	84c6f158d1d28d5d8309a82f71e06e0d	
@@ -1822,7 +1822,7 @@ C	GameResources-garage-weapon-hammer	Resources/GameResources/garage/weapon/hamme
 C	GameResources-garage-weapon-isis-0-_files	Resources/GameResources/garage/weapon/isis/0	3588624	c7a6280b8f27a1de2b6d590fb54513ac	Resources/GameResources/garage/weapon/isis/0/damage_end;Resources/GameResources/garage/weapon/isis/0/damage_shaft;Resources/GameResources/garage/weapon/isis/0/damage_start;Resources/GameResources/garage/weapon/isis/0/heal_end;Resources/GameResources/garage/weapon/isis/0/heal_shaft;Resources/GameResources/garage/weapon/isis/0/heal_start;Resources/GameResources/garage/weapon/isis/0/idle_spark
 C	GameResources-garage-weapon-isis-0-_files-p2	Resources/GameResources/garage/weapon/isis/0	3584724	fb4d8b8ab6e18425fed8b20e9fe98cbe	
 C	GameResources-garage-weapon-isis-0-_files-p3	Resources/GameResources/garage/weapon/isis/0	947556	419e877ad2fd4f42e275c5c5a54867a7	
-C	GameResources-garage-weapon-isis-0-damage_end	Resources/GameResources/garage/weapon/isis/0/damage_end	19032	455d8d3ab819d1217f6d17b34c8709bc	Resources/GameResources/garage/weapon/isis/0
+C	GameResources-garage-weapon-isis-0-damage_end	Resources/GameResources/garage/weapon/isis/0/damage_end	6808	1cb11159622e48900cf804f9fbb7ed5c	Resources/GameResources/garage/weapon/isis/0
 C	GameResources-garage-weapon-isis-0-damage_shaft	Resources/GameResources/garage/weapon/isis/0/damage_shaft	2036	3b1cd21ede4e63e697f31ff125f6e89d	Resources/GameResources/garage/weapon/isis/0
 C	GameResources-garage-weapon-isis-0-damage_start	Resources/GameResources/garage/weapon/isis/0/damage_start	3956	d899aa766c3015173176553dfa7b769a	Resources/GameResources/garage/weapon/isis/0
 C	GameResources-garage-weapon-isis-0-heal_end	Resources/GameResources/garage/weapon/isis/0/heal_end	4120	84c18825eb62e5c9e24fafb502174265	Resources/GameResources/garage/weapon/isis/0
@@ -1831,15 +1831,15 @@ C	GameResources-garage-weapon-isis-0-heal_start	Resources/GameResources/garage/w
 C	GameResources-garage-weapon-isis-0-idle_spark	Resources/GameResources/garage/weapon/isis/0/idle_spark	3900	bdc6611df0c7c860a7d3053bd426b4eb	Resources/GameResources/garage/weapon/isis/0
 C	GameResources-garage-weapon-isis-1-_files	Resources/GameResources/garage/weapon/isis/1	3692912	af253f0d91375e6726338fe733d08f4b	Resources/GameResources/garage/weapon/isis/1/damage_end;Resources/GameResources/garage/weapon/isis/1/damage_shaft;Resources/GameResources/garage/weapon/isis/1/damage_start;Resources/GameResources/garage/weapon/isis/1/heal_end;Resources/GameResources/garage/weapon/isis/1/heal_shaft;Resources/GameResources/garage/weapon/isis/1/heal_start;Resources/GameResources/garage/weapon/isis/1/idle_spark
 C	GameResources-garage-weapon-isis-1-_files-p2	Resources/GameResources/garage/weapon/isis/1	2842904	e4a72d193bf6e27b441a632950b984c0	
-C	GameResources-garage-weapon-isis-1-damage_end	Resources/GameResources/garage/weapon/isis/1/damage_end	19032	811a7abfa25f8284a1f8099224f7318f	Resources/GameResources/garage/weapon/isis/1
+C	GameResources-garage-weapon-isis-1-damage_end	Resources/GameResources/garage/weapon/isis/1/damage_end	6808	05386683e4d6f69a4674f84b4d5f8bb4	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-damage_shaft	Resources/GameResources/garage/weapon/isis/1/damage_shaft	2036	67dab96b67ff5abe5527b6776c7915c3	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-damage_start	Resources/GameResources/garage/weapon/isis/1/damage_start	3956	4c744bd65d879f7d96e9fd97d3f5b2e3	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-heal_end	Resources/GameResources/garage/weapon/isis/1/heal_end	4120	8ba9684ad6a78d2415de728d28ad15e2	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-heal_shaft	Resources/GameResources/garage/weapon/isis/1/heal_shaft	2000	f2c63c0cb428667bfd947736188c2468	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-heal_start	Resources/GameResources/garage/weapon/isis/1/heal_start	3900	0a5f0c4e33f47686a0688bce125818fa	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-1-idle_spark	Resources/GameResources/garage/weapon/isis/1/idle_spark	3900	6c37e0fd29ea2fb9a5e67d187d4330fb	Resources/GameResources/garage/weapon/isis/1
-C	GameResources-garage-weapon-isis-2	Resources/GameResources/garage/weapon/isis/2	2109260	e0503829c0502a3a2f203186ba97e320	Resources/GameResources/garage/weapon/isis/0
-C	GameResources-garage-weapon-isis-3	Resources/GameResources/garage/weapon/isis/3	2111452	68039e4dfb9a7b4f9aa650cfb2149155	Resources/GameResources/garage/weapon/isis/0
+C	GameResources-garage-weapon-isis-2	Resources/GameResources/garage/weapon/isis/2	2097036	30b37dd34eb115ae05ff99fbb68f7a34	Resources/GameResources/garage/weapon/isis/0
+C	GameResources-garage-weapon-isis-3	Resources/GameResources/garage/weapon/isis/3	2099228	a70ed2f2390c327542127eaee90b91fc	Resources/GameResources/garage/weapon/isis/0
 C	GameResources-garage-weapon-isis-audio	Resources/GameResources/garage/weapon/isis/audio	277596	7db18127c2c5b794a2497619aaac724a	
 C	GameResources-garage-weapon-isis-base	Resources/GameResources/garage/weapon/isis/base	5240	9633806ead9c0129da2cb4013d856a60	Resources/GameResources/garage/weapon/isis/1
 C	GameResources-garage-weapon-isis-shoteffect	Resources/GameResources/garage/weapon/isis/shoteffect	2456	10e4a41f65c1b90648134647b3a30f9a	
@@ -1853,10 +1853,10 @@ C	GameResources-garage-weapon-magnum-shotskin-standard	Resources/GameResources/g
 C	GameResources-garage-weapon-magnum-shotskin-toxic	Resources/GameResources/garage/weapon/magnum/shotskin/toxic	1299084	5ad859fa4a6de909495a85f32099690d	
 C	GameResources-garage-weapon-magnum-shotskin-violet	Resources/GameResources/garage/weapon/magnum/shotskin/violet	1287756	9bcd6923a7da31ebe4497586700ec277	
 C	GameResources-garage-weapon-railgun	Resources/GameResources/garage/weapon/railgun	2055716	1bb1ac2c3fabda5b5846068c6c08975b	
-C	GameResources-garage-weapon-ricochet-0	Resources/GameResources/garage/weapon/ricochet/0	1548468	47ec6f62b79b6a63029a0e75402a2a5e	
-C	GameResources-garage-weapon-ricochet-1	Resources/GameResources/garage/weapon/ricochet/1	1576100	2aa471c5d0a5363b5c485565f1de9136	
-C	GameResources-garage-weapon-ricochet-2	Resources/GameResources/garage/weapon/ricochet/2	1557652	8e531dc21a8ee1bd3640aa6901537623	
-C	GameResources-garage-weapon-ricochet-3	Resources/GameResources/garage/weapon/ricochet/3	1553588	917c3643517f48723346180543e4dc0d	
+C	GameResources-garage-weapon-ricochet-0	Resources/GameResources/garage/weapon/ricochet/0	1548484	4a6d7f0150936d3868b80c75b1a3089d	
+C	GameResources-garage-weapon-ricochet-1	Resources/GameResources/garage/weapon/ricochet/1	1576116	b6da60f30f5990cc802c3a35ee71a7f1	
+C	GameResources-garage-weapon-ricochet-2	Resources/GameResources/garage/weapon/ricochet/2	1557668	ad2ed0c9e695aca7d9f8f1af64e61991	
+C	GameResources-garage-weapon-ricochet-3	Resources/GameResources/garage/weapon/ricochet/3	1553604	bab9151bcbdcb5415a0b5de59ae26ef7	
 C	GameResources-garage-weapon-ricochet-_files	Resources/GameResources/garage/weapon/ricochet	105472	0e66ee23faed2b9df36bce51f7008481	
 C	GameResources-garage-weapon-ricochet-base	Resources/GameResources/garage/weapon/ricochet/base	3916	61d3a9dae1309050e9d490211ade72fd	Resources/GameResources/garage/weapon/ricochet/0
 C	GameResources-garage-weapon-ricochet-shoteffect	Resources/GameResources/garage/weapon/ricochet/shoteffect	43368	c6b6677a467ccb22e14fc8c229ea0153	
@@ -1871,18 +1871,18 @@ C	GameResources-garage-weapon-ricochet-shotskin-standard	Resources/GameResources
 C	GameResources-garage-weapon-ricochet-shotskin-toxic	Resources/GameResources/garage/weapon/ricochet/shotskin/toxic	1154864	2be9b3fad293b6f9fbff881801badb4a	
 C	GameResources-garage-weapon-ricochet-shotskin-violet	Resources/GameResources/garage/weapon/ricochet/shotskin/violet	1077960	f468e28fad13160f7b20c326eef4d39e	
 C	GameResources-garage-weapon-scorpion	Resources/GameResources/garage/weapon/scorpion	293012	5cad189f43cc60f54b5a8068cc467f86	
-C	GameResources-garage-weapon-shaft-0	Resources/GameResources/garage/weapon/shaft/0	370308	ff1ac7983f9fdf4850c9543634f72037	
-C	GameResources-garage-weapon-shaft-1	Resources/GameResources/garage/weapon/shaft/1	394764	0b9d58e82b1cc1e6ff705d92abd90c00	
-C	GameResources-garage-weapon-shaft-2	Resources/GameResources/garage/weapon/shaft/2	378212	ff6431f2f17f008f1bd46a2704f205fc	
-C	GameResources-garage-weapon-shaft-3	Resources/GameResources/garage/weapon/shaft/3	377844	8b05ad80bd9cb08295f8d5e347b2ab83	
+C	GameResources-garage-weapon-shaft-0	Resources/GameResources/garage/weapon/shaft/0	370740	c06ea4d6b0da208feb16da6649f84993	
+C	GameResources-garage-weapon-shaft-1	Resources/GameResources/garage/weapon/shaft/1	395196	cad0092fb60c6356c3826ea4500e08fb	
+C	GameResources-garage-weapon-shaft-2	Resources/GameResources/garage/weapon/shaft/2	378644	b82fb12217834053484a7c5284ef2d77	
+C	GameResources-garage-weapon-shaft-3	Resources/GameResources/garage/weapon/shaft/3	378276	35210cd93b034c35d59387766bdc263b	
 C	GameResources-garage-weapon-shaft-_files	Resources/GameResources/garage/weapon/shaft	378696	ee24e91d60eb982094450ec5105c81f6	
 C	GameResources-garage-weapon-shaft-base	Resources/GameResources/garage/weapon/shaft/base	1096	33054e6fa6473838fe05f8b952ce335b	
 C	GameResources-garage-weapon-shaft-shoteffect	Resources/GameResources/garage/weapon/shaft/shoteffect	54752	7b866eef2e36ee1ef8e855944ad29048	
 C	GameResources-garage-weapon-shaft-shotskin	Resources/GameResources/garage/weapon/shaft/shotskin	3164300	7b86bebb4e7ecee21efe0739faad2337	
-C	GameResources-garage-weapon-smoky-0	Resources/GameResources/garage/weapon/smoky/0	562956	f93e287860b70233eaa71c7f06899f64	Resources/GameResources/garage/weapon/smoky/critical_hit
-C	GameResources-garage-weapon-smoky-1	Resources/GameResources/garage/weapon/smoky/1	562956	7d93b4b87e8710c506bb204ff19b726b	Resources/GameResources/garage/weapon/smoky/critical_hit
-C	GameResources-garage-weapon-smoky-2	Resources/GameResources/garage/weapon/smoky/2	964860	021727165a7eeb4501bcdc2c4203eb84	Resources/GameResources/garage/weapon/smoky/critical_hit
-C	GameResources-garage-weapon-smoky-3	Resources/GameResources/garage/weapon/smoky/3	964860	cecd488a0b1f5dc98f405aa607c27017	Resources/GameResources/garage/weapon/smoky/critical_hit
+C	GameResources-garage-weapon-smoky-0	Resources/GameResources/garage/weapon/smoky/0	562828	6e02053c36f02b7b4b4c37381e2facd6	Resources/GameResources/garage/weapon/smoky/critical_hit
+C	GameResources-garage-weapon-smoky-1	Resources/GameResources/garage/weapon/smoky/1	562828	2431a3983dcb2bd80183887c22970611	Resources/GameResources/garage/weapon/smoky/critical_hit
+C	GameResources-garage-weapon-smoky-2	Resources/GameResources/garage/weapon/smoky/2	964732	9c93aac6d3b0972f4213632f498356e2	Resources/GameResources/garage/weapon/smoky/critical_hit
+C	GameResources-garage-weapon-smoky-3	Resources/GameResources/garage/weapon/smoky/3	964732	ee9c2378c43cff9d8bfe5778d1b8ac20	Resources/GameResources/garage/weapon/smoky/critical_hit
 C	GameResources-garage-weapon-smoky-_files	Resources/GameResources/garage/weapon/smoky	425092	bf80c44b42522867fc8922b8b0daf0cb	
 C	GameResources-garage-weapon-smoky-base	Resources/GameResources/garage/weapon/smoky/base	2536	7887451c0392531066af747f6c1258f2	Resources/GameResources/garage/weapon/smoky/1
 C	GameResources-garage-weapon-smoky-critical_hit	Resources/GameResources/garage/weapon/smoky/critical_hit	844	3605c704ab5119361fb3ffb477aa7ae7	Resources/GameResources/garage/weapon/smoky
@@ -1892,23 +1892,23 @@ C	GameResources-garage-weapon-striker-base	Resources/GameResources/garage/weapon
 C	GameResources-garage-weapon-striker-shoteffect	Resources/GameResources/garage/weapon/striker/shoteffect	25460	2f3f83c922c2fdab7388e692a778ef95	
 C	GameResources-garage-weapon-striker-shotskin-blue	Resources/GameResources/garage/weapon/striker/shotskin/blue	1251756	b64df78b7fff139ae8fe8bc055b3a813	
 C	GameResources-garage-weapon-striker-shotskin-crimson	Resources/GameResources/garage/weapon/striker/shotskin/crimson	1057228	cc51b6d503265724438a31bf385d9094	
-C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1342208	890e0b7cbef77844f30851692bc555a9	
+C	GameResources-garage-weapon-striker-shotskin-standard	Resources/GameResources/garage/weapon/striker/shotskin/standard	1289568	101ae4b625ec9e74f836d9ab85c6711c	
 C	GameResources-garage-weapon-striker-shotskin-toxic	Resources/GameResources/garage/weapon/striker/shotskin/toxic	1289084	132b540b633bf5d861844470f70e698b	
 C	GameResources-garage-weapon-striker-shotskin-violet	Resources/GameResources/garage/weapon/striker/shotskin/violet	1217492	db027bde5d616c64b2918a97f355e64b	
 C	GameResources-garage-weapon-terminator	Resources/GameResources/garage/weapon/terminator	69248	e91e73db00d369d5f92c06dd3162437f	
 C	GameResources-garage-weapon-tesla	Resources/GameResources/garage/weapon/tesla	647432	54b3acb01da79cef8660559ac75221da	
-C	GameResources-garage-weapon-thunder-0	Resources/GameResources/garage/weapon/thunder/0	1683484	ffc1318eed03109f35b66e611e54ca78	Resources/GameResources/garage/weapon/smoky/0
-C	GameResources-garage-weapon-thunder-1	Resources/GameResources/garage/weapon/thunder/1	1683452	e1fb7035a88eb9a5d222f43cd7ae5248	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
-C	GameResources-garage-weapon-thunder-2	Resources/GameResources/garage/weapon/thunder/2	1683772	116fe664d51ccf2de78ba7067eefe55b	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
-C	GameResources-garage-weapon-thunder-3	Resources/GameResources/garage/weapon/thunder/3	1683212	2471b1d8e089b3d2f4413914fdd8c2d2	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
+C	GameResources-garage-weapon-thunder-0	Resources/GameResources/garage/weapon/thunder/0	1683356	2e619ca5bf79d4a9d8173735d7bc7f9b	Resources/GameResources/garage/weapon/smoky/0
+C	GameResources-garage-weapon-thunder-1	Resources/GameResources/garage/weapon/thunder/1	1683324	ac2eec3695c4c67f59ebcc5c6ab57848	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
+C	GameResources-garage-weapon-thunder-2	Resources/GameResources/garage/weapon/thunder/2	1683644	f3201e122695cfd20deb2d9d5c75d2be	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
+C	GameResources-garage-weapon-thunder-3	Resources/GameResources/garage/weapon/thunder/3	1683084	d657d68f8b001916d5f1961e56ed9e8c	Resources/GameResources/garage/weapon/smoky/0;Resources/GameResources/garage/weapon/thunder/0
 C	GameResources-garage-weapon-thunder-_files	Resources/GameResources/garage/weapon/thunder	73120	448aa65ee8f563dc1e253b225f152be8	
 C	GameResources-garage-weapon-thunder-base	Resources/GameResources/garage/weapon/thunder/base	2524	f32745c9487c8e114d34e90307813272	Resources/GameResources/garage/weapon/thunder/1
 C	GameResources-garage-weapon-thunder-shotskin	Resources/GameResources/garage/weapon/thunder/shotskin	958540	661329dd73f6923d9577a30e78732beb	
 C	GameResources-garage-weapon-tomato_gun	Resources/GameResources/garage/weapon/tomato_gun	88800	e96c1ce05fd78c86e1d0f6c7370f98bd	
 C	GameResources-garage-weapon-tsunami	Resources/GameResources/garage/weapon/tsunami	1933760	e49048967ed374f760dfb6f982a39844	
-C	GameResources-garage-weapon-twins-0	Resources/GameResources/garage/weapon/twins/0	1253828	82f33f066541925d1e0163579b065593	
+C	GameResources-garage-weapon-twins-0	Resources/GameResources/garage/weapon/twins/0	1253892	bb1c8a137c1d1ceb37a5acdf9ea59068	
 C	GameResources-garage-weapon-twins-1	Resources/GameResources/garage/weapon/twins/1	1230916	d67aa325719ce756c52a51cd0ae3ead8	
-C	GameResources-garage-weapon-twins-2	Resources/GameResources/garage/weapon/twins/2	1190948	d4014ddd9f9aafeee095506ea62e23ae	
+C	GameResources-garage-weapon-twins-2	Resources/GameResources/garage/weapon/twins/2	1190900	1455b900dedc5f21432ae31e8749b9b5	
 C	GameResources-garage-weapon-twins-3	Resources/GameResources/garage/weapon/twins/3	1241220	1ee24236b29bbc77f378ba54ab73e2c5	
 C	GameResources-garage-weapon-twins-_files	Resources/GameResources/garage/weapon/twins	44840	78f3e00bb786d7c1c7e2be9fd353342e	
 C	GameResources-garage-weapon-twins-base	Resources/GameResources/garage/weapon/twins/base	4600	4ed64e862c97693efed0c58d35a6fcf2	Resources/GameResources/garage/weapon/twins/2
