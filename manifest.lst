@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6004452956
+#total	6062419036
 #chunks	3936
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
@@ -253,64 +253,64 @@ C	Battle-Landscape_old-complexbuildv1	Resources/Battle/Landscape_old/complexbuil
 C	Battle-Landscape_old-complexbuildv1winter	Resources/Battle/Landscape_old/complexbuildv1winter	4034428	7229a956e7f4675baaf59f3587caddf0	Resources/Battle/Landscape_new/complexbuildv1winter
 C	Battle-Landscape_old-concretetiles	Resources/Battle/Landscape_old/concretetiles	2053772	28ea61fe9c495e9250d8d8833ab5219c	
 C	Battle-Landscape_old-concretetileswinter	Resources/Battle/Landscape_old/concretetileswinter	2071348	55309cfe408ff48c412eafa93a7470bf	
-C	Battle-Landscape_old-defense	Resources/Battle/Landscape_old/defense	23042908	8f5cf3efd0d25cb05aa3861eea8ca20e	
-C	Battle-Landscape_old-deserthouses	Resources/Battle/Landscape_old/deserthouses	1420784	dd86b21a7a7f766c57d0883abbc7b815	
-C	Battle-Landscape_old-deserthouseswinter	Resources/Battle/Landscape_old/deserthouseswinter	1521764	bc21d73c8997f20f7c6c4df45e0ba745	
-C	Battle-Landscape_old-elementsv1	Resources/Battle/Landscape_old/elementsv1	3337464	c4129e206fbc62ac16ffae3abe6ccf76	Resources/Battle/Landscape_new/elementsv1
-C	Battle-Landscape_old-elementsv1winter	Resources/Battle/Landscape_old/elementsv1winter	3313352	dfb975822c8c4060b64b5bf78adde1de	Resources/Battle/Landscape_new/elementsv1winter
-C	Battle-Landscape_old-exterior	Resources/Battle/Landscape_old/exterior	3915644	d94a3eada937eb70c4589efe521ebd0f	
-C	Battle-Landscape_old-fachwerkhouse1	Resources/Battle/Landscape_old/fachwerkhouse1	2539656	fac5030a7f026b9342f0b8d366449ddb	
-C	Battle-Landscape_old-fachwerkhouse1winter	Resources/Battle/Landscape_old/fachwerkhouse1winter	2509404	8e3ed1956faf3595c94483302e008f36	
-C	Battle-Landscape_old-fachwerkhouse2	Resources/Battle/Landscape_old/fachwerkhouse2	2168168	57e619d61f2b41fa1c246dc8497e0212	
-C	Battle-Landscape_old-fachwerkhouse2winter	Resources/Battle/Landscape_old/fachwerkhouse2winter	2137692	abbb177ef63a6504f95cf340d33097e8	
+C	Battle-Landscape_old-defense	Resources/Battle/Landscape_old/defense	24227180	221cac785410537057655db3ae2c3f9b	
+C	Battle-Landscape_old-deserthouses	Resources/Battle/Landscape_old/deserthouses	1642320	d4fb6141b7991180de6e44fe08e24e5c	
+C	Battle-Landscape_old-deserthouseswinter	Resources/Battle/Landscape_old/deserthouseswinter	1789156	516b290839767983d44ab0dfb83a7fa2	
+C	Battle-Landscape_old-elementsv1	Resources/Battle/Landscape_old/elementsv1	4716264	d98898cae2f7495a2c84930ea5f4e628	Resources/Battle/Landscape_new/elementsv1
+C	Battle-Landscape_old-elementsv1winter	Resources/Battle/Landscape_old/elementsv1winter	4690760	d39391cfa6efaae9837a053a19d9d389	Resources/Battle/Landscape_new/elementsv1winter
+C	Battle-Landscape_old-exterior	Resources/Battle/Landscape_old/exterior	4661900	1c0def554338ea9af69774c05a797c09	
+C	Battle-Landscape_old-fachwerkhouse1	Resources/Battle/Landscape_old/fachwerkhouse1	2726248	406b5e002aba8f40038c0173995311b2	
+C	Battle-Landscape_old-fachwerkhouse1winter	Resources/Battle/Landscape_old/fachwerkhouse1winter	2714812	62d626eb51369c1dab97ef3270f5a41e	
+C	Battle-Landscape_old-fachwerkhouse2	Resources/Battle/Landscape_old/fachwerkhouse2	2364536	b9faf8f2913681a4801fef51da34ecff	
+C	Battle-Landscape_old-fachwerkhouse2winter	Resources/Battle/Landscape_old/fachwerkhouse2winter	2345388	0101055764c92cc8fd27e061bb10a152	
 C	Battle-Landscape_old-fort	Resources/Battle/Landscape_old/fort	10412660	50d05ed409408739fe8bfae753fdb4df	
 C	Battle-Landscape_old-fort-p2	Resources/Battle/Landscape_old/fort	24044080	c7fc1b5b6f65eb10037fc0627853a8bd	
-C	Battle-Landscape_old-fort-p3	Resources/Battle/Landscape_old/fort	12363340	cdb9bdd8b11e1005642e70e82b0a7495	
+C	Battle-Landscape_old-fort-p3	Resources/Battle/Landscape_old/fort	17259580	e44598ef11e95eb39daddeb74701a86b	
 C	Battle-Landscape_old-fortwinter	Resources/Battle/Landscape_old/fortwinter	10412808	894cb3bc3575e41fa2dd64540cf3ad45	
 C	Battle-Landscape_old-fortwinter-p2	Resources/Battle/Landscape_old/fortwinter	24044088	ff2f42c887d819d2ec64152e666837dd	
-C	Battle-Landscape_old-fortwinter-p3	Resources/Battle/Landscape_old/fortwinter	10537460	1b19fefd115930611946821fb17978db	
-C	Battle-Landscape_old-grasstiles	Resources/Battle/Landscape_old/grasstiles	1800124	1b96b5cfa80ad733ad43cfd3119c066c	
-C	Battle-Landscape_old-grasstileswinter	Resources/Battle/Landscape_old/grasstileswinter	1260592	10a04a3eb6241ec88673ff1f23b0960d	
-C	Battle-Landscape_old-halloween	Resources/Battle/Landscape_old/halloween	4067652	2b44dd86c6b8c8f59cefaea0d9efd0dd	
-C	Battle-Landscape_old-hangars	Resources/Battle/Landscape_old/hangars	540572	e3344ff18996b6be0962841df03cadcb	
-C	Battle-Landscape_old-hangarswinter	Resources/Battle/Landscape_old/hangarswinter	994480	da7655082316683f2e03b03145dd855e	
-C	Battle-Landscape_old-industrialbridge	Resources/Battle/Landscape_old/industrialbridge	2703612	faa872267e55a7c3eeace91fe76e2883	
-C	Battle-Landscape_old-industrialbridgewinter	Resources/Battle/Landscape_old/industrialbridgewinter	1938564	d2b4856b60322fdd49eecf66a40a7bf5	
-C	Battle-Landscape_old-industrialelements	Resources/Battle/Landscape_old/industrialelements	323652	f79a22af26caf106d891ee63faa59fa7	
-C	Battle-Landscape_old-industrialelementswinter	Resources/Battle/Landscape_old/industrialelementswinter	457852	421fb4372a63f7d79b725393544fe33c	
+C	Battle-Landscape_old-fortwinter-p3	Resources/Battle/Landscape_old/fortwinter	15002148	fd22391d30a4a6d5153cdc03d8a6c4f2	
+C	Battle-Landscape_old-grasstiles	Resources/Battle/Landscape_old/grasstiles	2414188	594f9b5d42e4c76a8a1fd5edec3c375f	
+C	Battle-Landscape_old-grasstileswinter	Resources/Battle/Landscape_old/grasstileswinter	1758688	7054e83f738f0907c44e040931306b32	
+C	Battle-Landscape_old-halloween	Resources/Battle/Landscape_old/halloween	5614436	d837ba814ef24ecf982f11c0d4440783	
+C	Battle-Landscape_old-hangars	Resources/Battle/Landscape_old/hangars	779292	63f63a1c02ba0bc05c72803f746964a6	
+C	Battle-Landscape_old-hangarswinter	Resources/Battle/Landscape_old/hangarswinter	1376400	e6729dbec88205becceb334787b98733	
+C	Battle-Landscape_old-industrialbridge	Resources/Battle/Landscape_old/industrialbridge	3767836	56f39c7f2c7ccf474fa818b92019f170	
+C	Battle-Landscape_old-industrialbridgewinter	Resources/Battle/Landscape_old/industrialbridgewinter	2774692	924aa3b80b81d672df8eaf8317d92f57	
+C	Battle-Landscape_old-industrialelements	Resources/Battle/Landscape_old/industrialelements	447572	d3f4872bf91977991747f57f6d7a60a1	
+C	Battle-Landscape_old-industrialelementswinter	Resources/Battle/Landscape_old/industrialelementswinter	634252	4fec3ba2d1cf1c5d7774947da2589451	
 C	Battle-Landscape_old-invisible	Resources/Battle/Landscape_old/invisible	32132	5643c8cf58c321f1864e4cf51aa3cb48	
-C	Battle-Landscape_old-kahgel	Resources/Battle/Landscape_old/kahgel	13548848	9075d58102aee4bd6859e979c8bb7235	
-C	Battle-Landscape_old-kariz	Resources/Battle/Landscape_old/kariz	11027712	e59e496a0617fbb4bf2b8fd4dee08ea8	
-C	Battle-Landscape_old-landhills	Resources/Battle/Landscape_old/landhills	6212632	ed4c3ebb20459a3803b806ba6ffc4ea8	
-C	Battle-Landscape_old-landhillswinter	Resources/Battle/Landscape_old/landhillswinter	5010676	798b9349791a0fcefeadabd57c92ca7f	
-C	Battle-Landscape_old-landrise	Resources/Battle/Landscape_old/landrise	3050848	62f3b86c1e4872330e238cfcfaeeb3e8	
-C	Battle-Landscape_old-landrisewinter	Resources/Battle/Landscape_old/landrisewinter	1942016	9595692e828a76c40b00334fa888d0c1	
-C	Battle-Landscape_old-landrocks	Resources/Battle/Landscape_old/landrocks	4145496	4149bf86d4ee5250a57e0fc829a025dc	
-C	Battle-Landscape_old-landrockswinter	Resources/Battle/Landscape_old/landrockswinter	3231980	5cf0a1418f2408af1e6b7a68e1e0b62a	
-C	Battle-Landscape_old-landscape	Resources/Battle/Landscape_old/landscape	7601836	bc8a902979244488cbb892b4decec434	Resources/Battle/Landscape_new/landscape
-C	Battle-Landscape_old-landscapewinter	Resources/Battle/Landscape_old/landscapewinter	5335932	359e659fa5f8e39beb19635b6fb02054	
-C	Battle-Landscape_old-landscapewinter2	Resources/Battle/Landscape_old/landscapewinter2	5388304	b2a91282dd9a03a0f69e18e0295d80c4	
-C	Battle-Landscape_old-landtiles	Resources/Battle/Landscape_old/landtiles	1123116	252a4ff5b2369665ff4c378acd8a4c9c	
-C	Battle-Landscape_old-landtileswinter	Resources/Battle/Landscape_old/landtileswinter	1152196	10e1650c82c62e27cc1636b8245df81d	
-C	Battle-Landscape_old-landv1	Resources/Battle/Landscape_old/landv1	10458184	b640be266de129b8ac52971a3496b4b3	Resources/Battle/Landscape_new/landv1
-C	Battle-Landscape_old-landv1winter	Resources/Battle/Landscape_old/landv1winter	9223724	1e6787500a77bf1654d943d42ce6fc8e	Resources/Battle/Landscape_new/landv1winter
-C	Battle-Landscape_old-nubu1	Resources/Battle/Landscape_old/nubu1	2522500	dd0636bee565c23bd03e70221b4c31f3	
-C	Battle-Landscape_old-nubu10	Resources/Battle/Landscape_old/nubu10	4122544	55721874e9e85026b8bbbdd612e9e967	
-C	Battle-Landscape_old-nubu10winter	Resources/Battle/Landscape_old/nubu10winter	975500	33c9d0de97da1273a05f32aa88f08fca	
-C	Battle-Landscape_old-nubu12	Resources/Battle/Landscape_old/nubu12	861856	85d8d1a0f9a07bdc2da7a88bce5820e2	
-C	Battle-Landscape_old-nubu12winter	Resources/Battle/Landscape_old/nubu12winter	702092	02995ae80d9e306dd0d5f329410da00e	
-C	Battle-Landscape_old-nubu14	Resources/Battle/Landscape_old/nubu14	1165312	c76d5a80b1aabab33fda56ca96a0ce91	
-C	Battle-Landscape_old-nubu14winter	Resources/Battle/Landscape_old/nubu14winter	1778316	a6a27a46b66f040b49ee68e7dca6b704	
-C	Battle-Landscape_old-nubu1winter	Resources/Battle/Landscape_old/nubu1winter	2177728	3a52eff8eefb9c5ec2c2f237d92d8ae2	
-C	Battle-Landscape_old-nubu2	Resources/Battle/Landscape_old/nubu2	1298068	996536dac40064de13aeb61c19db1bd0	
-C	Battle-Landscape_old-nubu2winter	Resources/Battle/Landscape_old/nubu2winter	1167664	248578ddb513eb1d1a5e55f49e3be401	
-C	Battle-Landscape_old-nubu3	Resources/Battle/Landscape_old/nubu3	670612	472db0b59790a0de2e3c6587f07fe106	
-C	Battle-Landscape_old-nubu3winter	Resources/Battle/Landscape_old/nubu3winter	840528	78563dcf897b60532a4408e48e2c53ae	
-C	Battle-Landscape_old-nubu4	Resources/Battle/Landscape_old/nubu4	2685700	aec63ab374dda8a490f0b5dd7942f684	
-C	Battle-Landscape_old-nubu4winter	Resources/Battle/Landscape_old/nubu4winter	2771888	dae95d1f16384a150f8383f1c9eb1535	
-C	Battle-Landscape_old-nubu5	Resources/Battle/Landscape_old/nubu5	5184132	c046e7c1dda353216ebae9261a4904f3	
-C	Battle-Landscape_old-nubu5winter	Resources/Battle/Landscape_old/nubu5winter	4948368	2d369807768ae1ef8ade3163a1b348c9	
-C	Battle-Landscape_old-nubu6	Resources/Battle/Landscape_old/nubu6	3747028	598f42c21f41d86cfba851ebbba78b73	
+C	Battle-Landscape_old-kahgel	Resources/Battle/Landscape_old/kahgel	18932176	3e4bab44c4ab7d8d771329394a5322e8	
+C	Battle-Landscape_old-kariz	Resources/Battle/Landscape_old/kariz	15401120	f6c79f6279931ba28c890dd59df1b124	
+C	Battle-Landscape_old-landhills	Resources/Battle/Landscape_old/landhills	7267704	e135e80709fa20da303736adfcf12541	
+C	Battle-Landscape_old-landhillswinter	Resources/Battle/Landscape_old/landhillswinter	5742740	a29d3995a8063aec29d72e05520da1ec	
+C	Battle-Landscape_old-landrise	Resources/Battle/Landscape_old/landrise	4148864	6e3b4142dc20dfae3c1c9bbd06d10f91	
+C	Battle-Landscape_old-landrisewinter	Resources/Battle/Landscape_old/landrisewinter	2723952	08405530cb51e6ed0e192258a12dbee5	
+C	Battle-Landscape_old-landrocks	Resources/Battle/Landscape_old/landrocks	5002968	b68965878cd977d333a35770f91a1843	
+C	Battle-Landscape_old-landrockswinter	Resources/Battle/Landscape_old/landrockswinter	3904636	e38dc35dcb324b1c56e3788aa7f9b661	
+C	Battle-Landscape_old-landscape	Resources/Battle/Landscape_old/landscape	10382620	16bb4e31ba5874ad6ffe052e2e7948ca	Resources/Battle/Landscape_new/landscape
+C	Battle-Landscape_old-landscapewinter	Resources/Battle/Landscape_old/landscapewinter	7336188	26861beb76e8f80e719766ea268a6ee1	
+C	Battle-Landscape_old-landscapewinter2	Resources/Battle/Landscape_old/landscapewinter2	7388560	309e256ccd4e8653cc4b536d7c024cb1	
+C	Battle-Landscape_old-landtiles	Resources/Battle/Landscape_old/landtiles	1529996	774d1253e4ad25092fb930ad97805d48	
+C	Battle-Landscape_old-landtileswinter	Resources/Battle/Landscape_old/landtileswinter	1555316	5c71683d69ebdb38c39a35efecdf495a	
+C	Battle-Landscape_old-landv1	Resources/Battle/Landscape_old/landv1	13875608	02ccea7a2d693bc071022bf3ffc2c34f	Resources/Battle/Landscape_new/landv1
+C	Battle-Landscape_old-landv1winter	Resources/Battle/Landscape_old/landv1winter	12547820	a31b04cf18b84f96f761838d0ab94d0e	Resources/Battle/Landscape_new/landv1winter
+C	Battle-Landscape_old-nubu1	Resources/Battle/Landscape_old/nubu1	3513988	548f77470e0dfa5bbdc8692322b61e39	
+C	Battle-Landscape_old-nubu10	Resources/Battle/Landscape_old/nubu10	4424944	a7e3123a4a3cbaa117949f853a4f1aa7	
+C	Battle-Landscape_old-nubu10winter	Resources/Battle/Landscape_old/nubu10winter	1377436	2d5aec0d223dc18e5629c118e6a12651	
+C	Battle-Landscape_old-nubu12	Resources/Battle/Landscape_old/nubu12	1173808	70a67dd9062c06f44ea9999f24004d09	
+C	Battle-Landscape_old-nubu12winter	Resources/Battle/Landscape_old/nubu12winter	980860	8df85d15ff6e33cbae2bcf1643ace08c	
+C	Battle-Landscape_old-nubu14	Resources/Battle/Landscape_old/nubu14	1644752	3fc73e5a59ab821713c0ab26c513de9a	
+C	Battle-Landscape_old-nubu14winter	Resources/Battle/Landscape_old/nubu14winter	2500540	87d52553d4f9aed4fc75304f568df9ac	
+C	Battle-Landscape_old-nubu1winter	Resources/Battle/Landscape_old/nubu1winter	3082000	29f589b3f7fe03b27444779b958aa9ad	
+C	Battle-Landscape_old-nubu2	Resources/Battle/Landscape_old/nubu2	1814596	a134995cf5b251329e2f798938506612	
+C	Battle-Landscape_old-nubu2winter	Resources/Battle/Landscape_old/nubu2winter	1625552	3fd3ed686cdce87a7ebd596552857b11	
+C	Battle-Landscape_old-nubu3	Resources/Battle/Landscape_old/nubu3	928292	579fd4e5e2deb36f0c8d9558dde0dbc7	
+C	Battle-Landscape_old-nubu3winter	Resources/Battle/Landscape_old/nubu3winter	1180192	122fac4dff711a21e2c91d11ed9fd4c2	
+C	Battle-Landscape_old-nubu4	Resources/Battle/Landscape_old/nubu4	2930740	a049654eff25c461b3e48edfcd0bb28d	
+C	Battle-Landscape_old-nubu4winter	Resources/Battle/Landscape_old/nubu4winter	3048704	0e062be1bcc5f53f210ef13a54b7285a	
+C	Battle-Landscape_old-nubu5	Resources/Battle/Landscape_old/nubu5	5738772	acc8bb9a9d6d56f7c759df1ae02379ff	
+C	Battle-Landscape_old-nubu5winter	Resources/Battle/Landscape_old/nubu5winter	5444176	0929b903f128bab849e01235e350999d	
+C	Battle-Landscape_old-nubu6	Resources/Battle/Landscape_old/nubu6	4076884	6f98647fc4cbd88401557502ac80d001	
 C	Battle-Landscape_old-nubu6winter	Resources/Battle/Landscape_old/nubu6winter	3790160	79505240541f961299bbb13d21d1b00a	
 C	Battle-Landscape_old-nubu8	Resources/Battle/Landscape_old/nubu8	3736532	8204fd6285ed905dd13fa4894fdf9e1f	
 C	Battle-Landscape_old-nubu8winter	Resources/Battle/Landscape_old/nubu8winter	3719984	c9d05e6544af908c00c9607dc5e3b112	
