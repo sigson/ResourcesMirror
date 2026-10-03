@@ -1,27 +1,31 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	5635324464
-#chunks	3894
-C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	249840	e631a5ce3058b95957887dd5038d1ecd	
-C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	163864	f291100e78b0122f9ab820300507ea48	
-C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24141680	3839e1a7502076b207cf722535442598	
-C	Battle-Landscape_new-billboardwinter	Resources/Battle/Landscape_new/billboardwinter	1010700	aea21fa1c4114bb637efd779e71068a7	Resources/Battle/Landscape_old/billboardwinter
-C	Battle-Landscape_new-bridgeparts	Resources/Battle/Landscape_new/bridgeparts	5566692	4517e8082f82cdca041164cfdc430dfc	
-C	Battle-Landscape_new-bridgepartswinter	Resources/Battle/Landscape_new/bridgepartswinter	5831332	22b47bfa5affeaf64f087c0b3c2e79e9	
-C	Battle-Landscape_new-brokenbottom	Resources/Battle/Landscape_new/brokenbottom	797064	24d0b954d9a5f5e2ee46abac052af2b0	
-C	Battle-Landscape_new-brokenbottomwinter	Resources/Battle/Landscape_new/brokenbottomwinter	817176	ad5dccc2b9cc39618e311272ef541419	
-C	Battle-Landscape_new-brokenroof	Resources/Battle/Landscape_new/brokenroof	3536792	7a22366fce8e1438b3cd94a70517b835	
-C	Battle-Landscape_new-brokenroofwinter	Resources/Battle/Landscape_new/brokenroofwinter	3321052	3505f732d0265d7e678d7821d105f41d	
-C	Battle-Landscape_new-brokenwalls	Resources/Battle/Landscape_new/brokenwalls	3766048	882f700f7280575ea26e8f9e12bee70e	
-C	Battle-Landscape_new-brokenwallswinter	Resources/Battle/Landscape_new/brokenwallswinter	1170928	ba56a57a5f8cad0feb14148e1868de9b	
-C	Battle-Landscape_new-buildings	Resources/Battle/Landscape_new/buildings	21809828	ac5cf05cee04e15fb7eda08cb7fe42a1	
-C	Battle-Landscape_new-buildingsv1	Resources/Battle/Landscape_new/buildingsv1	13212388	26b74083c4a1ad3ea3f920922721b927	
-C	Battle-Landscape_new-buildingsv1old	Resources/Battle/Landscape_new/buildingsv1old	15332732	53285fa6de86895a27a0b49f5212750b	
-C	Battle-Landscape_new-buildingsv1winter	Resources/Battle/Landscape_new/buildingsv1winter	12972548	288d288c9986afbb9f595f37b0ffb5ca	
-C	Battle-Landscape_new-buildingsv1winterold	Resources/Battle/Landscape_new/buildingsv1winterold	18429800	36db3d6947b9fe2570f3e896ea653fee	
-C	Battle-Landscape_new-buildingswinter	Resources/Battle/Landscape_new/buildingswinter	18467612	bf92b19aa2676fb698c091b7b304346d	
-C	Battle-Landscape_new-builds	Resources/Battle/Landscape_new/builds	14862704	e1d514f863e1f8a79cf3f2f8faea9600	
+#total	5698801884
+#chunks	3928
+C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
+C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
+C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24391252	0733bd9e60ca1538aecbbbc62fcd6528	
+C	Battle-Landscape_new-beach-p2	Resources/Battle/Landscape_new/beach	9888668	8b3f3093776bfcf3a78caa74c2545493	
+C	Battle-Landscape_new-billboardwinter	Resources/Battle/Landscape_new/billboardwinter	1405196	281f509b8de29e94bc8522792d9423aa	Resources/Battle/Landscape_old/billboardwinter
+C	Battle-Landscape_new-bridgeparts	Resources/Battle/Landscape_new/bridgeparts	5916420	c0c22eba7dc129af0034e35f1aebd060	
+C	Battle-Landscape_new-bridgepartswinter	Resources/Battle/Landscape_new/bridgepartswinter	6280836	d6e45f779a45ffd555de6ecdcb1c3e30	
+C	Battle-Landscape_new-brokenbottom	Resources/Battle/Landscape_new/brokenbottom	872328	d0e4cb19229d7b3f5522d78ca62bfdc6	
+C	Battle-Landscape_new-brokenbottomwinter	Resources/Battle/Landscape_new/brokenbottomwinter	900696	c13af2a6ff668e6d394a11a83c9e9e47	
+C	Battle-Landscape_new-brokenroof	Resources/Battle/Landscape_new/brokenroof	3859320	651bc75bed3c61f5f3edf4b182991573	
+C	Battle-Landscape_new-brokenroofwinter	Resources/Battle/Landscape_new/brokenroofwinter	3628844	4e26985b3b3f24335bb66cdef1c9b536	
+C	Battle-Landscape_new-brokenwalls	Resources/Battle/Landscape_new/brokenwalls	4124544	a29579a9e895313c641d7d7a0edc3dae	
+C	Battle-Landscape_new-brokenwallswinter	Resources/Battle/Landscape_new/brokenwallswinter	1547856	b501dea2f4d55d03f819b1cb1bb62b4f	
+C	Battle-Landscape_new-buildings	Resources/Battle/Landscape_new/buildings	25141732	e90753844daa5a68266b26c5da6261ce	
+C	Battle-Landscape_new-buildings-p2	Resources/Battle/Landscape_new/buildings	3447408	967a5e0a0ddc98f6611b444a7dfda1f8	
+C	Battle-Landscape_new-buildingsv1	Resources/Battle/Landscape_new/buildingsv1	18023700	158bd4d92238e36fef0abcac77477115	
+C	Battle-Landscape_new-buildingsv1old	Resources/Battle/Landscape_new/buildingsv1old	21120364	7f0db387c0fb0342e797fa13a4b193e9	
+C	Battle-Landscape_new-buildingsv1winter	Resources/Battle/Landscape_new/buildingsv1winter	18362788	3832499edda2e93c089f39546a9fbc8c	
+C	Battle-Landscape_new-buildingsv1winterold	Resources/Battle/Landscape_new/buildingsv1winterold	25032732	a83eee9d16396db1746992723bdeec09	
+C	Battle-Landscape_new-buildingsv1winterold-p2	Resources/Battle/Landscape_new/buildingsv1winterold	298012	db199028159ae383d64282c47338d824	
+C	Battle-Landscape_new-buildingswinter	Resources/Battle/Landscape_new/buildingswinter	25068808	35ac1200c0772677d4ddbfcccf66bba3	
+C	Battle-Landscape_new-buildingswinter-p2	Resources/Battle/Landscape_new/buildingswinter	299764	00f1afb6caa49f95fc6f1489459b4b17	
+C	Battle-Landscape_new-builds	Resources/Battle/Landscape_new/builds	20601040	55f9783c3bcadb89f131d582a408f607	
 C	Battle-Landscape_new-buildsold	Resources/Battle/Landscape_new/buildsold	22140240	7a40ef0f33fc3cac615924e59b16a1f2	
 C	Battle-Landscape_new-buildsold-p2	Resources/Battle/Landscape_new/buildsold	24778884	be73b915808ae56c9e54d38f732fd64d	
 C	Battle-Landscape_new-buildsold-p3	Resources/Battle/Landscape_new/buildsold	8315288	48f8c2caf1c6cad61f4701e9f8f0e1f2	
@@ -1444,7 +1448,8 @@ C	GameResources-garage-skin-tank-crusader-dk	Resources/GameResources/garage/skin
 C	GameResources-garage-skin-tank-crusader-hd	Resources/GameResources/garage/skin/tank/crusader/hd	1937548	fbb6266dbaedd79a75f51f941caabdd4	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-tank-crusader-rt	Resources/GameResources/garage/skin/tank/crusader/rt	1693164	0292c49c1b88c1ca0bcc4e49521c63a6	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-tank-crusader-xt	Resources/GameResources/garage/skin/tank/crusader/xt	2031916	10498feb055b6158e2b0c80037590f6b	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-tank-dictator-20	Resources/GameResources/garage/skin/tank/dictator/20	3015776	b6c8d1369ec788015d810f9af2e649c1	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-tank-dictator-20-_files	Resources/GameResources/garage/skin/tank/dictator/20	4149948	6b2948d814d416e7e6276eeffa456082	
+C	GameResources-garage-skin-tank-dictator-20-base	Resources/GameResources/garage/skin/tank/dictator/20/base	46936	3fe18dc3a1efe20b18a57ffc71a5b99a	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
 C	GameResources-garage-skin-tank-dictator-default	Resources/GameResources/garage/skin/tank/dictator/default	1573408	a2b4a79e3918de881f018d530909c4f0	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-tank-dictator-gt	Resources/GameResources/garage/skin/tank/dictator/gt	1501280	40a41bad9b2f275028fa4478137f0249	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-tank-dictator-hd	Resources/GameResources/garage/skin/tank/dictator/hd	1484856	214b3c917fc6e330189dddef7e2e5054	Resources/GameResources/garage/colormap/electra
@@ -1593,7 +1598,11 @@ C	GameResources-garage-skin-tank-wasp-tx_xt	Resources/GameResources/garage/skin/
 C	GameResources-garage-skin-tank-wasp-vt	Resources/GameResources/garage/skin/tank/wasp/vt	1697036	09fd26cddf8dd401052ad4582f81c55a	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-tank-wasp-xt	Resources/GameResources/garage/skin/tank/wasp/xt	283868	cb48a4720cee2263962c034493e21c4f	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-_files	Resources/GameResources/garage/skin/weapon	1268	75e1f849097a5ee55cd951620406340f	
-C	GameResources-garage-skin-weapon-flamethrower-20	Resources/GameResources/garage/skin/weapon/flamethrower/20	3144140	cd9b14fdb2a814e99e41a8889fdc0512	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
+C	GameResources-garage-skin-weapon-flamethrower-20-0	Resources/GameResources/garage/skin/weapon/flamethrower/20/0	1058572	54538ae4de98f5d451e48c45895527d4	
+C	GameResources-garage-skin-weapon-flamethrower-20-1	Resources/GameResources/garage/skin/weapon/flamethrower/20/1	1037924	9dbb62c4c644c99b96007beb77230bb6	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
+C	GameResources-garage-skin-weapon-flamethrower-20-2	Resources/GameResources/garage/skin/weapon/flamethrower/20/2	1080100	6b3e72a23991e9883b01fc331982d0e8	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
+C	GameResources-garage-skin-weapon-flamethrower-20-3	Resources/GameResources/garage/skin/weapon/flamethrower/20/3	1129892	2eba66fe9399db3255821a74e3111fff	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
+C	GameResources-garage-skin-weapon-flamethrower-20-base	Resources/GameResources/garage/skin/weapon/flamethrower/20/base	37512	cdd3577f02f58b44616873225b0c7d77	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/tank/dictator/20
 C	GameResources-garage-skin-weapon-flamethrower-2_0	Resources/GameResources/garage/skin/weapon/flamethrower/2_0	1154756	a235f9fb3fcad1de4071781310698f24	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-flamethrower-dc	Resources/GameResources/garage/skin/weapon/flamethrower/dc	725152	8bd040f49d3274879b2bf88242001918	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-flamethrower-dc_old	Resources/GameResources/garage/skin/weapon/flamethrower/dc_old	119204	e0b183561c8aee405ae4a586b0fe50f9	Resources/GameResources/garage/colormap/electra
@@ -1675,8 +1684,22 @@ C	GameResources-garage-skin-weapon-railgun-tx_victory_day	Resources/GameResource
 C	GameResources-garage-skin-weapon-railgun-tx_xt	Resources/GameResources/garage/skin/weapon/railgun/tx_xt	806768	7104ae9b9b2591195c3b8312abb3ad89	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-railgun-ut	Resources/GameResources/garage/skin/weapon/railgun/ut	584436	5f665bf6ff605cf1d12584f00f3725cf	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-railgun-xt	Resources/GameResources/garage/skin/weapon/railgun/xt	435820	e6888097cd08369b1cb7d1b153dc1a79	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-ricochet	Resources/GameResources/garage/skin/weapon/ricochet	3996768	027e6c70e2592e81a5ac06d86f587546	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-scorpion	Resources/GameResources/garage/skin/weapon/scorpion	4144232	170a87f7eb5a1c384629ba80f7dd8f95	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-default	Resources/GameResources/garage/skin/weapon/ricochet/default	463704	5bb98cec2e22743a3ac05afb13338f4e	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-gt	Resources/GameResources/garage/skin/weapon/ricochet/gt	753372	dd29cd2b441a38de4651203522a5224c	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-hd	Resources/GameResources/garage/skin/weapon/ricochet/hd	771628	fcba9fb288aaf817021035b57108157c	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-lc	Resources/GameResources/garage/skin/weapon/ricochet/lc	159324	ab6b182144c8bd0999031d9e77bd0d9b	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-old	Resources/GameResources/garage/skin/weapon/ricochet/old	614560	18ba713c7bdbb7dd09683600e367d868	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-oldv2	Resources/GameResources/garage/skin/weapon/ricochet/oldv2	586116	265ba24248fe656e858a8c642a36e27d	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-rt	Resources/GameResources/garage/skin/weapon/ricochet/rt	731916	3d10d45b520a085c054fa1828ed92598	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-tx	Resources/GameResources/garage/skin/weapon/ricochet/tx	1209548	7dd8ae3fad61b06f61de834fed5ff26e	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-xt	Resources/GameResources/garage/skin/weapon/ricochet/xt	135380	829ec7dc3c48e845fb1446eb785dcd61	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-ricochet-xt_fake	Resources/GameResources/garage/skin/weapon/ricochet/xt_fake	152372	ceeb9598b46f084cf189be7e6d62999c	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-default	Resources/GameResources/garage/skin/weapon/scorpion/default	933324	9fab25ecc9594e06f370b7b5cd75213c	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-dk	Resources/GameResources/garage/skin/weapon/scorpion/dk	928340	307b9ebe83a4194e44739566f6f404c7	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-gt	Resources/GameResources/garage/skin/weapon/scorpion/gt	843348	db5d7597642f9eb6a1237545816be661	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-hd	Resources/GameResources/garage/skin/weapon/scorpion/hd	739020	7896dfa9ed584a4cf3e155ee43d7f25d	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-rt	Resources/GameResources/garage/skin/weapon/scorpion/rt	917060	7c975a7c906a0e3f6a8e7861d2745d57	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-xt	Resources/GameResources/garage/skin/weapon/scorpion/xt	1083604	df60fe20f4ac100e10f80168225dfadc	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-shaft-dc	Resources/GameResources/garage/skin/weapon/shaft/dc	822624	f6a262af1348e500411b0aed68265c9f	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-shaft-default	Resources/GameResources/garage/skin/weapon/shaft/default	848624	3dc75e2ca0e2a1644a98fb73f94b95fe	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-shaft-gt	Resources/GameResources/garage/skin/weapon/shaft/gt	626832	39b834b92eb5b2a37bd8ad11c64e4ac7	Resources/GameResources/garage/colormap/electra
@@ -1707,7 +1730,14 @@ C	GameResources-garage-skin-weapon-smoky-vt	Resources/GameResources/garage/skin/
 C	GameResources-garage-skin-weapon-smoky-xt	Resources/GameResources/garage/skin/weapon/smoky/xt	90096	ba24c3ece10082d086b1dbb76b08e5e1	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-smoky-xt_fake	Resources/GameResources/garage/skin/weapon/smoky/xt_fake	114048	c46a8c6c26bdf30a989355d6886f3323	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-smoky-xt_old	Resources/GameResources/garage/skin/weapon/smoky/xt_old	64752	e5fc00e877b47a2d5290c292de673910	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-striker	Resources/GameResources/garage/skin/weapon/striker	4128332	d33e9ddbd0ff24b1dfba53d7926ab14a	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-default	Resources/GameResources/garage/skin/weapon/striker/default	760148	0c63e965b8bc1f4b367cfe7e07a19445	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-demo	Resources/GameResources/garage/skin/weapon/striker/demo	82576	39bb0544f9f0429504a2296c07866fef	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-dk	Resources/GameResources/garage/skin/weapon/striker/dk	947356	959408a1561b356ca38bf28f23f99906	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-gt	Resources/GameResources/garage/skin/weapon/striker/gt	768284	3b9039b871224f3257ecb323d7ee68c6	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-hd	Resources/GameResources/garage/skin/weapon/striker/hd	693820	d494e158083bae1e9e33960b81309bca	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-ut	Resources/GameResources/garage/skin/weapon/striker/ut	869836	4d92337fcca09e0876a964adc874d889	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-xt	Resources/GameResources/garage/skin/weapon/striker/xt	251852	af9ca7f0ba673a3827eea9f5520bade0	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-striker-xt_hd	Resources/GameResources/garage/skin/weapon/striker/xt_hd	985676	69da1e685263cc9fb462cf42b9f88739	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-terminator	Resources/GameResources/garage/skin/weapon/terminator	651940	324a67dd46c82b8cd592f42505189eb8	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-default	Resources/GameResources/garage/skin/weapon/tesla/default	762716	715d14734428d508a03fb49a39fa686d	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-dk	Resources/GameResources/garage/skin/weapon/tesla/dk	780432	b05c7e2163b3238aee73cfdb7bc097ea	Resources/GameResources/garage/colormap/electra
@@ -1716,7 +1746,11 @@ C	GameResources-garage-skin-weapon-tesla-hd	Resources/GameResources/garage/skin/
 C	GameResources-garage-skin-weapon-tesla-lc	Resources/GameResources/garage/skin/weapon/tesla/lc	122492	3645d42c3ef74f067a63392c7671d550	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-rt	Resources/GameResources/garage/skin/weapon/tesla/rt	664476	7f946f802d715a21359d92b7958f30a0	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-xt	Resources/GameResources/garage/skin/weapon/tesla/xt	917504	7b8dddce633d240a43d808e897f2dc4f	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-thunder-20	Resources/GameResources/garage/skin/weapon/thunder/20	3752812	2fb5468d84ed50ce2232a14e645106a8	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-thunder-20-0	Resources/GameResources/garage/skin/weapon/thunder/20/0	1980920	d09649feb149d6aa0eaecb11d2179304	
+C	GameResources-garage-skin-weapon-thunder-20-1	Resources/GameResources/garage/skin/weapon/thunder/20/1	1288508	5acab305f8fc91f024c5a0a658e13f3f	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/weapon/thunder/20/0
+C	GameResources-garage-skin-weapon-thunder-20-2	Resources/GameResources/garage/skin/weapon/thunder/20/2	1060780	9507d1c9d63044964f94fb8b39da270a	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/weapon/thunder/20/0
+C	GameResources-garage-skin-weapon-thunder-20-3	Resources/GameResources/garage/skin/weapon/thunder/20/3	907612	1ad4133d63552f4c942d36df4a580761	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/weapon/thunder/20/0
+C	GameResources-garage-skin-weapon-thunder-20-base	Resources/GameResources/garage/skin/weapon/thunder/20/base	33076	109c22ceeba37e8cb73267495f1dddbb	Resources/GameResources/garage/colormap/electra;Resources/GameResources/garage/skin/weapon/thunder/20/0
 C	GameResources-garage-skin-weapon-thunder-2_0	Resources/GameResources/garage/skin/weapon/thunder/2_0	973164	58d3e6982ae8a53699e599e72f1e74f4	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-thunder-default	Resources/GameResources/garage/skin/weapon/thunder/default	289860	d71025501ddcec8a8b9f2aa52b643a74	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-thunder-dk	Resources/GameResources/garage/skin/weapon/thunder/dk	484916	bf6774b1c5ffe685c79f20cac23f80fa	Resources/GameResources/garage/colormap/electra
