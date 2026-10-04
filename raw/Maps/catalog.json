@@ -46639,12 +46639,12 @@
    "theme": "summer_day"
   },
   {
-   "file": "Maps/Подземка.xml",
-   "id": "Подземка",
+   "file": "Maps/Subway_new_summer.xml",
+   "id": "Subway_new_summer",
    "source": "pro",
    "source_path": "protlvk-bin-main/maps/map_subway.xml",
    "copies": [
-    "UTanksData/Config/Maps/NoAdapt/Подземка.xml",
+    "UTanksData/Config/Maps/NoAdapt/Subway_new_summer.xml",
     "tlvk-reload-resources-main/maps/map_subway_summer/map.xml"
    ],
    "base": "subway",

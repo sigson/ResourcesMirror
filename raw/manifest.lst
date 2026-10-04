@@ -855,6 +855,7 @@ F	Maps/Station_old_winter.xml	510711	c4df1acdeb0f415df1bf8a3fe0caf829
 F	Maps/Streetracers2_new_summer.xml	2442006	d78e471da653a016bcaf91438f157389
 F	Maps/SubwayOld_new_summer.xml	1203102	eb2af79cd78f8923bdb148a6e22610a4
 F	Maps/SubwayOld_new_winter.xml	1216885	e59d9aafd5f39d8104050b288eb212dd
+F	Maps/Subway_new_summer.xml	1032451	0728f39fc2848da9e4abe88f15d4d26d
 F	Maps/Subway_new_winter.xml	1045093	2ab97876a54096a420de28f0107389f7
 F	Maps/Subway_old_summer.xml	1219112	1278020d836281b84ec83715c9f1d488
 F	Maps/Subway_old_winter.xml	1233224	f54c0727142225604c1e140b7702ba6b
@@ -925,5 +926,4 @@ F	Maps/ZoneTlvk_new_summer.xml	463694	3f3e4f588e1fae4054a153748ccdb14e
 F	Maps/Zone_new_summer.xml	476387	cb518a4644a6bc46605d11eb8c6c17a0
 F	Maps/Zone_new_winter.xml	485604	cca8063a1e49c8655d5ac82700041c70
 F	Maps/Zone_old_summer.xml	482083	3ee53145b80c9fa32d5dfc90f1be7110
-F	Maps/catalog.json	1114662	7d687d216a2561cd738a5da66af26a59
-F	Maps/Подземка.xml	1032451	0728f39fc2848da9e4abe88f15d4d26d
+F	Maps/catalog.json	1114665	e734fb47b8f2d830e2d3f35632c14ebb
