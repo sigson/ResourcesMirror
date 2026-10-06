@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6262628284
-#chunks	3936
+#total	6262458248
+#chunks	3935
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24391252	0733bd9e60ca1538aecbbbc62fcd6528	
@@ -517,7 +517,7 @@ C	GameResources-battle-bonusskin-speed	Resources/GameResources/battle/bonusskin/
 C	GameResources-battle-bonusskin-supergold	Resources/GameResources/battle/bonusskin/supergold	542480	e9cf259332006619b81f8f076376466c	
 C	GameResources-battle-dropmark	Resources/GameResources/battle/dropmark	2061852	d938391f6a83f70c579d59595949f135	
 C	GameResources-battle-goal	Resources/GameResources/battle/goal	3440940	8812c0965b9fa191eba62d23b60372a9	
-C	GameResources-battle-map	Resources/GameResources/battle/map	1110996	4e4fd6788209fcd8461c747b1e45bd73	
+C	GameResources-battle-map	Resources/GameResources/battle/map	1265716	f0466c5ffbfd9f91a6c7999d05fd4c24	
 C	GameResources-battle-sound	Resources/GameResources/battle/sound	2105976	95dfad311ce7bfacee0b97ae91819252	
 C	GameResources-garage-barriers	Resources/GameResources/garage/barriers	89360	ef39a6e260af7c9b665fb15184d6e7b9	
 C	GameResources-garage-boosters	Resources/GameResources/garage/boosters	48560	31201c23e58817056924e0b637b034ed	
@@ -2986,7 +2986,6 @@ C	GameResources-maps-ui-preview-res-ZoneTlvk_new_summer.png	Resources/GameResour
 C	GameResources-maps-ui-preview-res-Zone_new_summer.jpg	Resources/GameResources/maps/ui/preview/res/Zone_new_summer.jpg	419892	79ec20c6954055e1fc9b7bf8a3ebe6f2	
 C	GameResources-maps-ui-preview-res-Zone_new_winter.jpg	Resources/GameResources/maps/ui/preview/res/Zone_new_winter.jpg	532420	13738c004579aa048009ac52fc8c8e43	
 C	GameResources-maps-ui-preview-res-Zone_old_summer.jpg	Resources/GameResources/maps/ui/preview/res/Zone_old_summer.jpg	489812	4e788ed2c52b2ade8a024561bbb4734b	
-C	GameResources-maps-ui-preview-res-________.jpg	Resources/GameResources/maps/ui/preview/res/Подземка.jpg	324756	3420e15677418a2335845257075c010b	
 C	GameResources-ranksconfig	Resources/GameResources/ranksconfig	137532	337cb5979f7d5bc9d9dc01b92f0c50c9	
 C	Maps-2013_new_summer.xml	Resources/Maps/2013_new_summer.xml	979728	5ac55e75c3f1404e5c4bb119158e0d6c	
 C	Maps-2042_new_summer.xml	Resources/Maps/2042_new_summer.xml	988064	0cc669183fcc82b33a7a0840943c9bb3	
@@ -3844,6 +3843,7 @@ C	Maps-Station_old_winter.xml	Resources/Maps/Station_old_winter.xml	510916	e4946
 C	Maps-Streetracers2_new_summer.xml	Resources/Maps/Streetracers2_new_summer.xml	2442216	49af05320114a78b203b8f8ce7007a2d	
 C	Maps-SubwayOld_new_summer.xml	Resources/Maps/SubwayOld_new_summer.xml	1203300	52788c1e904dab8a1ada3104daa627b0	
 C	Maps-SubwayOld_new_winter.xml	Resources/Maps/SubwayOld_new_winter.xml	1217092	c5508928835b0446452fcb0756482de6	
+C	Maps-Subway_new_summer.xml	Resources/Maps/Subway_new_summer.xml	1032656	66e05dee74e9572893f3ad82c71c41e2	
 C	Maps-Subway_new_winter.xml	Resources/Maps/Subway_new_winter.xml	1045296	53c8c9cec0141cb4be1a9c359044a1cc	
 C	Maps-Subway_old_summer.xml	Resources/Maps/Subway_old_summer.xml	1219312	b9fd7993f37969f8d4544cde4bc12f40	
 C	Maps-Subway_old_winter.xml	Resources/Maps/Subway_old_winter.xml	1233424	30519ecb1cd706765f15e86fdbaf57b5	
@@ -3914,8 +3914,7 @@ C	Maps-ZoneTlvk_new_summer.xml	Resources/Maps/ZoneTlvk_new_summer.xml	463892	602
 C	Maps-Zone_new_summer.xml	Resources/Maps/Zone_new_summer.xml	476592	76e9fdb9298ecc181985963bdaa64c15	
 C	Maps-Zone_new_winter.xml	Resources/Maps/Zone_new_winter.xml	485808	9569c7b5b62f7b5374b9031ab67d365d	
 C	Maps-Zone_old_summer.xml	Resources/Maps/Zone_old_summer.xml	482288	c81177416788d142b8aab27d853420e4	
-C	Maps-________.xml	Resources/Maps/Подземка.xml	1032656	b022be780df0865e5beeec7712ec6c4b	
-C	Maps-catalog.json	Resources/Maps/catalog.json	1114856	db8a7ceac601bf5f56df9826b3358cb0	Resources/Battle/StaticMaps/Agroprom;Resources/Battle/StaticMaps/CNPP;Resources/Battle/StaticMaps/CsAgroUnderground;Resources/Battle/StaticMaps/CsAgroprom;Resources/Battle/StaticMaps/CsCnpp;Resources/Battle/StaticMaps/CsDarkValley;Resources/Battle/StaticMaps/CsEscape;Resources/Battle/StaticMaps/CsGarbage;Resources/Battle/StaticMaps/CsHospital;Resources/Battle/StaticMaps/CsLimansk;Resources/Battle/StaticMaps/CsMarsh;Resources/Battle/StaticMaps/CsMpAgroprom;Resources/Battle/StaticMaps/CsMpAtp;Resources/Battle/StaticMaps/CsMpAutostation;Resources/Battle/StaticMaps/CsMpBath;Resources/Battle/StaticMaps/CsMpDarkValley;Resources/Battle/StaticMaps/CsMpFactory;Resources/Battle/StaticMaps/CsMpFirestation;Resources/Battle/StaticMaps/CsMpGarbage;Resources/Battle/StaticMaps/CsMpLimansk;Resources/Battle/StaticMaps/CsMpLostVillage;Resources/Battle/StaticMaps/CsMpMilitary1;Resources/Battle/StaticMaps/CsMpMilitary2;Resources/Battle/StaticMaps/CsMpPool;Resources/Battle/StaticMaps/CsMpRailroad;Resources/Battle/StaticMaps/CsMpRepairBase;Resources/Battle/StaticMaps/CsMpRostok;Resources/Battle/StaticMaps/CsMpSportCenter;Resources/Battle/StaticMaps/CsMpTrainingCamp;Resources/Battle/StaticMaps/CsMpWorkshop;Resources/Battle/StaticMaps/CsYantar;Resources/Battle/StaticMaps/Pripyat;Resources/Battle/StaticMaps/SocAgroUnderground;Resources/Battle/StaticMaps/SocBar;Resources/Battle/StaticMaps/SocCnpp2;Resources/Battle/StaticMaps/SocDarkValley;Resources/Battle/StaticMaps/SocEscape;Resources/Battle/StaticMaps/SocGarbage;Resources/Battle/StaticMaps/SocLabX10;Resources/Battle/StaticMaps/SocLabX16;Resources/Battle/StaticMaps/SocLabX18;Resources/Battle/StaticMaps/SocMilitary;Resources/Battle/StaticMaps/SocMonolithControl;Resources/Battle/StaticMaps/SocMpAgroprom;Resources/Battle/StaticMaps/SocMpAtp;Resources/Battle/StaticMaps/SocMpBath;Resources/Battle/StaticMaps/SocMpDarkValley;Resources/Battle/StaticMaps/SocMpFactory;Resources/Battle/StaticMaps/SocMpLostVillage;Resources/Battle/StaticMaps/SocMpMilitary1;Resources/Battle/StaticMaps/SocMpMilitary2;Resources/Battle/StaticMaps/SocMpPool;Resources/Battle/StaticMaps/SocMpRailroad;Resources/Battle/StaticMaps/SocMpRostok;Resources/Battle/StaticMaps/SocMpWorkshop;Resources/Battle/StaticMaps/SocRadar;Resources/Battle/StaticMaps/SocRostok;Resources/Battle/StaticMaps/SocSarcophagus;Resources/Battle/StaticMaps/SocYantar
+C	Maps-catalog.json	Resources/Maps/catalog.json	1114856	8d80532b63314c64ffadaf50eb8096c7	Resources/Battle/StaticMaps/Agroprom;Resources/Battle/StaticMaps/CNPP;Resources/Battle/StaticMaps/CsAgroUnderground;Resources/Battle/StaticMaps/CsAgroprom;Resources/Battle/StaticMaps/CsCnpp;Resources/Battle/StaticMaps/CsDarkValley;Resources/Battle/StaticMaps/CsEscape;Resources/Battle/StaticMaps/CsGarbage;Resources/Battle/StaticMaps/CsHospital;Resources/Battle/StaticMaps/CsLimansk;Resources/Battle/StaticMaps/CsMarsh;Resources/Battle/StaticMaps/CsMpAgroprom;Resources/Battle/StaticMaps/CsMpAtp;Resources/Battle/StaticMaps/CsMpAutostation;Resources/Battle/StaticMaps/CsMpBath;Resources/Battle/StaticMaps/CsMpDarkValley;Resources/Battle/StaticMaps/CsMpFactory;Resources/Battle/StaticMaps/CsMpFirestation;Resources/Battle/StaticMaps/CsMpGarbage;Resources/Battle/StaticMaps/CsMpLimansk;Resources/Battle/StaticMaps/CsMpLostVillage;Resources/Battle/StaticMaps/CsMpMilitary1;Resources/Battle/StaticMaps/CsMpMilitary2;Resources/Battle/StaticMaps/CsMpPool;Resources/Battle/StaticMaps/CsMpRailroad;Resources/Battle/StaticMaps/CsMpRepairBase;Resources/Battle/StaticMaps/CsMpRostok;Resources/Battle/StaticMaps/CsMpSportCenter;Resources/Battle/StaticMaps/CsMpTrainingCamp;Resources/Battle/StaticMaps/CsMpWorkshop;Resources/Battle/StaticMaps/CsYantar;Resources/Battle/StaticMaps/Pripyat;Resources/Battle/StaticMaps/SocAgroUnderground;Resources/Battle/StaticMaps/SocBar;Resources/Battle/StaticMaps/SocCnpp2;Resources/Battle/StaticMaps/SocDarkValley;Resources/Battle/StaticMaps/SocEscape;Resources/Battle/StaticMaps/SocGarbage;Resources/Battle/StaticMaps/SocLabX10;Resources/Battle/StaticMaps/SocLabX16;Resources/Battle/StaticMaps/SocLabX18;Resources/Battle/StaticMaps/SocMilitary;Resources/Battle/StaticMaps/SocMonolithControl;Resources/Battle/StaticMaps/SocMpAgroprom;Resources/Battle/StaticMaps/SocMpAtp;Resources/Battle/StaticMaps/SocMpBath;Resources/Battle/StaticMaps/SocMpDarkValley;Resources/Battle/StaticMaps/SocMpFactory;Resources/Battle/StaticMaps/SocMpLostVillage;Resources/Battle/StaticMaps/SocMpMilitary1;Resources/Battle/StaticMaps/SocMpMilitary2;Resources/Battle/StaticMaps/SocMpPool;Resources/Battle/StaticMaps/SocMpRailroad;Resources/Battle/StaticMaps/SocMpRostok;Resources/Battle/StaticMaps/SocMpWorkshop;Resources/Battle/StaticMaps/SocRadar;Resources/Battle/StaticMaps/SocRostok;Resources/Battle/StaticMaps/SocSarcophagus;Resources/Battle/StaticMaps/SocYantar
 C	thumbs-GameResources-battle	Resources/#thumbs/GameResources/battle	3680	c5c85f74f4c440a681147ce53e55f477	
 C	thumbs-GameResources-garage	Resources/#thumbs/GameResources/garage	972280	55b102d47161661d62f326d04cada451	
 C	thumbs-GameResources-garage-colormap	Resources/#thumbs/GameResources/garage/colormap	21067544	875992c1db19400106e17163c5f2a76b	
