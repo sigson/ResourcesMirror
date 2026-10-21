@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6262476328
-#chunks	3935
+#total	6275705300
+#chunks	3939
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24391252	0733bd9e60ca1538aecbbbc62fcd6528	
@@ -505,6 +505,7 @@ C	Battle-StaticMaps-_Soc-textures-wind	Resources/Battle/StaticMaps/_Soc/textures
 C	Battle-StaticMaps-_Soc-textures-wm	Resources/Battle/StaticMaps/_Soc/textures/wm	438428	bdfb6767013017e768bb5b26fc2e2ce7	
 C	Battle-StaticMaps-_Soc-textures-wood	Resources/Battle/StaticMaps/_Soc/textures/wood	8996904	8d1a4279cb06b05c0d09efab24c598dc	
 C	Battle-StaticMaps-_Soc-textures-wpn	Resources/Battle/StaticMaps/_Soc/textures/wpn	1398632	24f7f8a4a3e5feebcbf6a3688e3701f3	
+C	CustomMaps	Resources/CustomMaps	1085204	b883a9431078779da90e43c2b43d8b4d	
 C	GameResources-battle	Resources/GameResources/battle	13862368	f574d20449c84a2ebc7325a26d24acdc	
 C	GameResources-battle-bonus	Resources/GameResources/battle/bonus	8660	14d5455fa405951ad1d1e9a0365d3329	
 C	GameResources-battle-bonusskin-armor	Resources/GameResources/battle/bonusskin/armor	1060708	b841c34cec9860af5ebaadcd7e91a215	
@@ -517,8 +518,9 @@ C	GameResources-battle-bonusskin-speed	Resources/GameResources/battle/bonusskin/
 C	GameResources-battle-bonusskin-supergold	Resources/GameResources/battle/bonusskin/supergold	542480	e9cf259332006619b81f8f076376466c	
 C	GameResources-battle-dropmark	Resources/GameResources/battle/dropmark	2061852	d938391f6a83f70c579d59595949f135	
 C	GameResources-battle-goal	Resources/GameResources/battle/goal	3440940	8812c0965b9fa191eba62d23b60372a9	
-C	GameResources-battle-map	Resources/GameResources/battle/map	1309748	968e41460475e051d218f0476da6eae3	
+C	GameResources-battle-map	Resources/GameResources/battle/map	1319940	abb5b5903a0c8453b5d965bb3daca074	
 C	GameResources-battle-sound	Resources/GameResources/battle/sound	2105976	95dfad311ce7bfacee0b97ae91819252	
+C	GameResources-battle-sound-ambience	Resources/GameResources/battle/sound/ambience	6703428	d3e41bb57aa14ac89827f8a4e5a181bb	
 C	GameResources-garage-barriers	Resources/GameResources/garage/barriers	89360	ef39a6e260af7c9b665fb15184d6e7b9	
 C	GameResources-garage-boosters	Resources/GameResources/garage/boosters	48560	31201c23e58817056924e0b637b034ed	
 C	GameResources-garage-colormap-1m_players_2010	Resources/GameResources/garage/colormap/1m_players_2010	52568	41e331cb1af303c28c1c6efc9086e0b8	
@@ -1442,6 +1444,7 @@ C	GameResources-garage-drone	Resources/GameResources/garage/drone	236580	7024ef6
 C	GameResources-garage-hull	Resources/GameResources/garage/hull	3244108	eabec11b86f43851bc0b6b61b5daa681	
 C	GameResources-garage-hullmodules	Resources/GameResources/garage/hullmodules	2010024	8fe799f21d18800a60bccae5f225da08	
 C	GameResources-garage-opportunityticket	Resources/GameResources/garage/opportunityticket	7272	b7215d45c34341dcc1e636d70226e845	
+C	GameResources-garage-preview	Resources/GameResources/garage/preview	3811832	7237ffe423095366cdc039d20945af59	
 C	GameResources-garage-protection	Resources/GameResources/garage/protection	5970656	cd1ed307c3e7d395eee40ae91505ceb8	
 C	GameResources-garage-skin-drone	Resources/GameResources/garage/skin/drone	3294504	7087e6f02d8d45fd70ab08f67c8a3693	
 C	GameResources-garage-skin-tank-_files	Resources/GameResources/garage/skin/tank	1264	9c1015cdd36995e24aeee02913bb0bf3	
@@ -1958,6 +1961,7 @@ C	GameResources-garage-weapon-twins-shoteffect	Resources/GameResources/garage/we
 C	GameResources-garage-weapon-twins-shotskin	Resources/GameResources/garage/weapon/twins/shotskin	4192236	2fee560d8150eee108a6202ec5b5215a	
 C	GameResources-garage-weapon-vulcan	Resources/GameResources/garage/weapon/vulcan	1722764	a22860147473ab20691a18f8c76bb898	
 C	GameResources-garage-weaponkit	Resources/GameResources/garage/weaponkit	3494644	c4be600488d09280399a73a20f5cf383	
+C	GameResources-lobby	Resources/GameResources/lobby	1618316	15ef2142fed4e05440ab2de29b7791d2	
 C	GameResources-maps-skybox-2.0_arena_night	Resources/GameResources/maps/skybox/2.0_arena_night	2089016	8f9215af8679ea2c5db1fe94bed5d904	
 C	GameResources-maps-skybox-2.0_crash_day	Resources/GameResources/maps/skybox/2.0_crash_day	5761184	da8dc14aef6adcd9c90427076f519fa1	
 C	GameResources-maps-skybox-2.0_day	Resources/GameResources/maps/skybox/2.0_day	3661776	20593d3e61c9cc535396ae24e7f03e21	
