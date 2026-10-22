@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6275705300
+#total	6275731076
 #chunks	3939
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
@@ -1959,7 +1959,7 @@ C	GameResources-garage-weapon-twins-_files	Resources/GameResources/garage/weapon
 C	GameResources-garage-weapon-twins-base	Resources/GameResources/garage/weapon/twins/base	4600	4ed64e862c97693efed0c58d35a6fcf2	Resources/GameResources/garage/weapon/twins/2
 C	GameResources-garage-weapon-twins-shoteffect	Resources/GameResources/garage/weapon/twins/shoteffect	40180	faec8f0ec9f75338d980178157070c68	
 C	GameResources-garage-weapon-twins-shotskin	Resources/GameResources/garage/weapon/twins/shotskin	4192236	2fee560d8150eee108a6202ec5b5215a	
-C	GameResources-garage-weapon-vulcan	Resources/GameResources/garage/weapon/vulcan	1722764	a22860147473ab20691a18f8c76bb898	
+C	GameResources-garage-weapon-vulcan	Resources/GameResources/garage/weapon/vulcan	1748540	e7f47f05ef384ee424442ec0ed5f74ca	
 C	GameResources-garage-weaponkit	Resources/GameResources/garage/weaponkit	3494644	c4be600488d09280399a73a20f5cf383	
 C	GameResources-lobby	Resources/GameResources/lobby	1618316	15ef2142fed4e05440ab2de29b7791d2	
 C	GameResources-maps-skybox-2.0_arena_night	Resources/GameResources/maps/skybox/2.0_arena_night	2089016	8f9215af8679ea2c5db1fe94bed5d904	
