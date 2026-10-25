@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6225430360
+#total	6225310208
 #chunks	3918
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
@@ -1441,7 +1441,7 @@ C	GameResources-garage-colormap-zombie	Resources/GameResources/garage/colormap/z
 C	GameResources-garage-colormap-zombies	Resources/GameResources/garage/colormap/zombies	103176	5d6ce2539cf4218bceb5cb8a8627a53c	
 C	GameResources-garage-container	Resources/GameResources/garage/container	153576	15a6482b844ff01f520936447aea75a5	
 C	GameResources-garage-drone	Resources/GameResources/garage/drone	236580	7024ef6b5e370103d9ac99a99bb3c824	
-C	GameResources-garage-hull	Resources/GameResources/garage/hull	3244108	eabec11b86f43851bc0b6b61b5daa681	
+C	GameResources-garage-hull	Resources/GameResources/garage/hull	3244108	53b1b2896c1a3406b6c54fcdea92dba4	
 C	GameResources-garage-hullmodules	Resources/GameResources/garage/hullmodules	968200	ea583f1601f60512997a959d67c11916	
 C	GameResources-garage-opportunityticket	Resources/GameResources/garage/opportunityticket	7272	b7215d45c34341dcc1e636d70226e845	
 C	GameResources-garage-preview	Resources/GameResources/garage/preview	3844492	3bef8ad8a7d2d00d3694b38eb1864273	
@@ -1805,7 +1805,7 @@ C	GameResources-garage-skin-weapon-vulcan-tx	Resources/GameResources/garage/skin
 C	GameResources-garage-skin-weapon-vulcan-ut	Resources/GameResources/garage/skin/weapon/vulcan/ut	715868	e754ec4914f7ddde7c25238b69c49467	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-vulcan-xt	Resources/GameResources/garage/skin/weapon/vulcan/xt	188640	08af6c6e22edc41d93998f3cbb2e0290	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-supplies	Resources/GameResources/garage/supplies	94732	3127fc2e0b0439664f7420a58747586a	
-C	GameResources-garage-turretmodules	Resources/GameResources/garage/turretmodules	9580488	3068a8fa0f386644496c91c55663c98b	
+C	GameResources-garage-turretmodules	Resources/GameResources/garage/turretmodules	9520404	b2c645b6085fa37717c4e78cb1d7fb92	
 C	GameResources-garage-ui	Resources/GameResources/garage/ui	791724	273477809c7822daddb470027e00504b	
 C	GameResources-garage-weapon-_files	Resources/GameResources/garage/weapon	96780	98b620a28c08fb86b2a4e146fd24b336	
 C	GameResources-garage-weapon-bonk	Resources/GameResources/garage/weapon/bonk	231660	d69a1b6543aab6af027d108353d8187f	
@@ -1842,7 +1842,7 @@ C	GameResources-garage-weapon-freeze-shotskin-m3_legacy	Resources/GameResources/
 C	GameResources-garage-weapon-freeze-shotskin-snow	Resources/GameResources/garage/weapon/freeze/shotskin/snow	290196	8dca4e6a55fcd047e956744737c1b1f9	
 C	GameResources-garage-weapon-freeze-shotskin-standard	Resources/GameResources/garage/weapon/freeze/shotskin/standard	939420	6da1453545d2079b0ce150bf48fe71a5	
 C	GameResources-garage-weapon-freeze-shotskin-toxic	Resources/GameResources/garage/weapon/freeze/shotskin/toxic	993528	6bb7266eed9b74404256f594eacb9a95	
-C	GameResources-garage-weapon-gauss-_files	Resources/GameResources/garage/weapon/gauss	422968	fb6030e03c01ac588195f37a772d696e	Resources/GameResources/garage/weapon/striker;Resources/GameResources/garage/weapon/thunder
+C	GameResources-garage-weapon-gauss-_files	Resources/GameResources/garage/weapon/gauss	422968	fb6030e03c01ac588195f37a772d696e	Resources/GameResources/garage/weapon/striker;Resources/GameResources/garage/weapon/thunder;Resources/GameResources/garage/weapon/thunder/shotskin
 C	GameResources-garage-weapon-gauss-base	Resources/GameResources/garage/weapon/gauss/base	1096	a6eb1cd91b8b075f5fd6f0178b67f220	
 C	GameResources-garage-weapon-gauss-shoteffect	Resources/GameResources/garage/weapon/gauss/shoteffect	6404	e05e4c50e55974e55faba4b5954bbfeb	
 C	GameResources-garage-weapon-gauss-shotskin-green_fake	Resources/GameResources/garage/weapon/gauss/shotskin/green_fake	2339576	022ff25bfe6381c0e7fee8150cc1e65e	
@@ -3919,7 +3919,7 @@ C	thumbs-GameResources-garage-turretmodules-scorpion	Resources/#thumbs/GameResou
 C	thumbs-GameResources-garage-turretmodules-striker	Resources/#thumbs/GameResources/garage/turretmodules/striker	1008320	e83aa7d8d4733c5ae2630bed2b627ae1	
 C	thumbs-GameResources-garage-turretmodules-tesla	Resources/#thumbs/GameResources/garage/turretmodules/tesla	698312	4bd2a7ca4dbf7a2b7c78daaa8fdaf339	
 C	thumbs-GameResources-garage-turretmodules-thunder	Resources/#thumbs/GameResources/garage/turretmodules/thunder	817956	b1b66b35992e14f249939a4cc081d1d4	
-C	thumbs-GameResources-garage-turretmodules-twins	Resources/#thumbs/GameResources/garage/turretmodules/twins	602680	5ecf3c69d72b398be8cbcf5de24b3148	
+C	thumbs-GameResources-garage-turretmodules-twins	Resources/#thumbs/GameResources/garage/turretmodules/twins	542612	da9372aabbf13793ec24663ff37f9d0d	
 C	thumbs-GameResources-garage-turretmodules-vulcan	Resources/#thumbs/GameResources/garage/turretmodules/vulcan	630464	0831c26054624c6f757b258d5d1d326e	
 T	Resources/GameResources/garage	thumbs-GameResources-garage
 T	Resources/GameResources/garage/colormap	thumbs-GameResources-garage-colormap
