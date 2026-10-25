@@ -1,8 +1,8 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6218964328
-#chunks	3913
+#total	6214544296
+#chunks	3908
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
 C	Battle-Landscape_new-beach	Resources/Battle/Landscape_new/beach	24391252	0733bd9e60ca1538aecbbbc62fcd6528	
@@ -1805,7 +1805,7 @@ C	GameResources-garage-skin-weapon-vulcan-tx	Resources/GameResources/garage/skin
 C	GameResources-garage-skin-weapon-vulcan-ut	Resources/GameResources/garage/skin/weapon/vulcan/ut	715868	e754ec4914f7ddde7c25238b69c49467	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-vulcan-xt	Resources/GameResources/garage/skin/weapon/vulcan/xt	188640	08af6c6e22edc41d93998f3cbb2e0290	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-supplies	Resources/GameResources/garage/supplies	94732	3127fc2e0b0439664f7420a58747586a	
-C	GameResources-garage-turretmodules	Resources/GameResources/garage/turretmodules	7078004	f0b9b9e1fb53d662094f7705e3ce6756	
+C	GameResources-garage-turretmodules	Resources/GameResources/garage/turretmodules	4868452	3bb63961c5e7c31aefe24ab11a5b5e65	
 C	GameResources-garage-ui	Resources/GameResources/garage/ui	791724	273477809c7822daddb470027e00504b	
 C	GameResources-garage-weapon-_files	Resources/GameResources/garage/weapon	96780	98b620a28c08fb86b2a4e146fd24b336	
 C	GameResources-garage-weapon-bonk	Resources/GameResources/garage/weapon/bonk	231660	d69a1b6543aab6af027d108353d8187f	
@@ -3910,21 +3910,11 @@ C	thumbs-GameResources-garage-colormap	Resources/#thumbs/GameResources/garage/co
 C	thumbs-GameResources-garage-protection	Resources/#thumbs/GameResources/garage/protection	5970656	cd1ed307c3e7d395eee40ae91505ceb8	
 C	thumbs-GameResources-garage-skin-tank	Resources/#thumbs/GameResources/garage/skin/tank	6549280	95576356c881cde698c1f2fd397a9cbb	
 C	thumbs-GameResources-garage-skin-weapon	Resources/#thumbs/GameResources/garage/skin/weapon	4785936	8647d3879ccb55e817441145b2e079c9	
-C	thumbs-GameResources-garage-turretmodules	Resources/#thumbs/GameResources/garage/turretmodules	3400516	ca7bbf687c9155dccb964a19d7513091	
-C	thumbs-GameResources-garage-turretmodules-striker	Resources/#thumbs/GameResources/garage/turretmodules/striker	989072	b859e1259fd652f0e16a266453a12192	
-C	thumbs-GameResources-garage-turretmodules-tesla	Resources/#thumbs/GameResources/garage/turretmodules/tesla	698312	4bd2a7ca4dbf7a2b7c78daaa8fdaf339	
-C	thumbs-GameResources-garage-turretmodules-thunder	Resources/#thumbs/GameResources/garage/turretmodules/thunder	817956	b1b66b35992e14f249939a4cc081d1d4	
-C	thumbs-GameResources-garage-turretmodules-twins	Resources/#thumbs/GameResources/garage/turretmodules/twins	542612	da9372aabbf13793ec24663ff37f9d0d	
-C	thumbs-GameResources-garage-turretmodules-vulcan	Resources/#thumbs/GameResources/garage/turretmodules/vulcan	630464	0831c26054624c6f757b258d5d1d326e	
+C	thumbs-GameResources-garage-turretmodules	Resources/#thumbs/GameResources/garage/turretmodules	4868452	3bb63961c5e7c31aefe24ab11a5b5e65	
 T	Resources/GameResources/garage	thumbs-GameResources-garage
 T	Resources/GameResources/garage/colormap	thumbs-GameResources-garage-colormap
 T	Resources/GameResources/garage/protection	thumbs-GameResources-garage-protection
 T	Resources/GameResources/garage/skin/tank	thumbs-GameResources-garage-skin-tank
 T	Resources/GameResources/garage/skin/weapon	thumbs-GameResources-garage-skin-weapon
 T	Resources/GameResources/garage/turretmodules	thumbs-GameResources-garage-turretmodules
-T	Resources/GameResources/garage/turretmodules/striker	thumbs-GameResources-garage-turretmodules-striker
-T	Resources/GameResources/garage/turretmodules/tesla	thumbs-GameResources-garage-turretmodules-tesla
-T	Resources/GameResources/garage/turretmodules/thunder	thumbs-GameResources-garage-turretmodules-thunder
-T	Resources/GameResources/garage/turretmodules/twins	thumbs-GameResources-garage-turretmodules-twins
-T	Resources/GameResources/garage/turretmodules/vulcan	thumbs-GameResources-garage-turretmodules-vulcan
 T	Resources/GameResources/battle	thumbs-GameResources-battle
