@@ -1,7 +1,7 @@
 #v2
 #engine	4.7.2
 #root	Resources
-#total	6214544296
+#total	6214543896
 #chunks	3908
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5feb5f0a75eb7b839815ed41f7fa9bc5	
 C	Battle-Landscape_new-battlecity	Resources/Battle/Landscape_new/battlecity	321016	811d51b2245f98151e4e6182ab94566f	
@@ -1677,7 +1677,7 @@ C	GameResources-garage-skin-weapon-isis-tod_fake	Resources/GameResources/garage/
 C	GameResources-garage-skin-weapon-isis-tx_bumblebee_83	Resources/GameResources/garage/skin/weapon/isis/tx_bumblebee_83	1917800	15d8c0e0eb906c24bc0db7d050017c10	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-isis-xt	Resources/GameResources/garage/skin/weapon/isis/xt	134892	8811908feac5d919b2efb38d0d5a456b	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-isis-xt_fake	Resources/GameResources/garage/skin/weapon/isis/xt_fake	143536	8961af2cf8e7680c2c99f93e65aa0eb3	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-magnum	Resources/GameResources/garage/skin/weapon/magnum	3696636	dce689eeb8d80e95bdd2fef007cc3c69	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-magnum	Resources/GameResources/garage/skin/weapon/magnum	3696540	a6bca322e31d9c12873988acb2b684aa	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-railgun-20	Resources/GameResources/garage/skin/weapon/railgun/20	3575804	d69c39ee152da863d3ed3b05de0e1225	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-railgun-default	Resources/GameResources/garage/skin/weapon/railgun/default	501340	85b71f4a73bd7cc544e255774db777de	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-railgun-gt	Resources/GameResources/garage/skin/weapon/railgun/gt	626836	1c8f838e6f71e1ba199a681d44614d21	Resources/GameResources/garage/colormap/electra
@@ -1705,7 +1705,7 @@ C	GameResources-garage-skin-weapon-ricochet-rt	Resources/GameResources/garage/sk
 C	GameResources-garage-skin-weapon-ricochet-tx	Resources/GameResources/garage/skin/weapon/ricochet/tx	1209548	7dd8ae3fad61b06f61de834fed5ff26e	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-ricochet-xt	Resources/GameResources/garage/skin/weapon/ricochet/xt	135380	829ec7dc3c48e845fb1446eb785dcd61	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-ricochet-xt_fake	Resources/GameResources/garage/skin/weapon/ricochet/xt_fake	152372	ceeb9598b46f084cf189be7e6d62999c	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-scorpion-default	Resources/GameResources/garage/skin/weapon/scorpion/default	933324	9fab25ecc9594e06f370b7b5cd75213c	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-scorpion-default	Resources/GameResources/garage/skin/weapon/scorpion/default	933164	ab1b0ce632fea7b5a0f931eafb24edcb	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-scorpion-dk	Resources/GameResources/garage/skin/weapon/scorpion/dk	928340	307b9ebe83a4194e44739566f6f404c7	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-scorpion-gt	Resources/GameResources/garage/skin/weapon/scorpion/gt	843348	db5d7597642f9eb6a1237545816be661	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-scorpion-hd	Resources/GameResources/garage/skin/weapon/scorpion/hd	739020	7896dfa9ed584a4cf3e155ee43d7f25d	Resources/GameResources/garage/colormap/electra
@@ -1749,8 +1749,8 @@ C	GameResources-garage-skin-weapon-striker-hd	Resources/GameResources/garage/ski
 C	GameResources-garage-skin-weapon-striker-ut	Resources/GameResources/garage/skin/weapon/striker/ut	869836	4d92337fcca09e0876a964adc874d889	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-striker-xt	Resources/GameResources/garage/skin/weapon/striker/xt	251852	af9ca7f0ba673a3827eea9f5520bade0	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-striker-xt_hd	Resources/GameResources/garage/skin/weapon/striker/xt_hd	985676	69da1e685263cc9fb462cf42b9f88739	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-terminator	Resources/GameResources/garage/skin/weapon/terminator	890916	7d4220c70db0d3ba893f2fa8f5a5fd87	Resources/GameResources/garage/colormap/electra
-C	GameResources-garage-skin-weapon-tesla-default	Resources/GameResources/garage/skin/weapon/tesla/default	1022364	a63957522212f355e3d13f88e433cd9e	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-terminator	Resources/GameResources/garage/skin/weapon/terminator	890884	018a8c9152bce4d50034d77235ad974d	Resources/GameResources/garage/colormap/electra
+C	GameResources-garage-skin-weapon-tesla-default	Resources/GameResources/garage/skin/weapon/tesla/default	1022252	477821fab122ed2752ad53edb2272649	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-dk	Resources/GameResources/garage/skin/weapon/tesla/dk	1006448	e4ce79ef1f51b80340cf748ab6b8b508	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-gt	Resources/GameResources/garage/skin/weapon/tesla/gt	960416	c457a3abd33d481d8466d9807982ea4d	Resources/GameResources/garage/colormap/electra
 C	GameResources-garage-skin-weapon-tesla-hd	Resources/GameResources/garage/skin/weapon/tesla/hd	856556	dd09e04a4f31c62699dbee775f390260	Resources/GameResources/garage/colormap/electra
