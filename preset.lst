@@ -1,9 +1,9 @@
 #v3
 #preset	dottanks
-#version	1
+#version	2
 #engine	4.7.2
 #root	Resources
-#total	5834945304
+#total	5836012984
 #chunks	3887
 #enc	none
 C	Battle-Landscape_new-4thlibrary	Resources/Battle/Landscape_new/4thlibrary	392992	5a571ffd2425daca4b75d1f40aeec4fe5b9874811d645e97951c44c8f8aa6d29	
@@ -1019,7 +1019,7 @@ C	GameResources-garage-colormap-nickel	Resources/GameResources/garage/colormap/n
 C	GameResources-garage-colormap-nigeria	Resources/GameResources/garage/colormap/nigeria	509208	364748263d1965c2e52d996bc246fed16a3574dc0cd49f5deaa4b61c7de100f0	
 C	GameResources-garage-colormap-night	Resources/GameResources/garage/colormap/night	50324	1d6dd19fe9eead30e640968c2d561d516db99575deafc5b010f0dd801c673ba4	
 C	GameResources-garage-colormap-night_city	Resources/GameResources/garage/colormap/night_city	1104976	e44a08bd11570d5ec467daf69a33a61e216ee2224030513f2309607309194f3c	
-C	GameResources-garage-colormap-nightcity	Resources/GameResources/garage/colormap/nightcity	1691820	ebf5a2bc6f5eeef463961c3b4fe7f570211353e5884dff5bd05b410bfe0ddab9	
+C	GameResources-garage-colormap-nightcity	Resources/GameResources/garage/colormap/nightcity	2759500	c13abfac6b21821bcbd7ac1d4ccf7de1d68d7b382f06164b57020f0feeaf917d	
 C	GameResources-garage-colormap-nightmare	Resources/GameResources/garage/colormap/nightmare	237996	95a9afc40c9de3afe6c583acc7e1ce7ac7a1ffd3577b3488a0fb434710369407	
 C	GameResources-garage-colormap-noobest	Resources/GameResources/garage/colormap/noobest	377448	09bb7f35eab3b8813f3133aed9539096b0172b584e47279b7b64691d5fa5fcef	
 C	GameResources-garage-colormap-noobest_2	Resources/GameResources/garage/colormap/noobest_2	250732	41f40e669623cf4b3ab643c1b50c872b4341315e8a32acf35bf0cb6f8e9997e3	
